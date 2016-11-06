@@ -31,7 +31,7 @@ class Application extends Controller {
     Ok(json)
   }
   def mountDisk(dir: String) = Action {
-    val clean_dir: String = dir.replaceAll("(%2f)*", "/")
+    val clean_dir: String = dir.replaceAll("(%2f)", "/")
     val success:Int = Drive.mountDisk(clean_dir)
     val json: JsValue = Json.obj("success" -> Json.toJson(success))
     Ok(json)
