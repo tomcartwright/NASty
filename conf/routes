@@ -15,9 +15,9 @@ GET     /mountDisk/:dir                           controllers.Application.mountD
 GET     /ls                                       controllers.Application.ls
 GET     /ll                                       controllers.Application.ll
 GET     /cd/:dir                                  controllers.Application.cd(dir: String)
-GET     /copyToDisk/:infpath/:outpath             controllers.Application.copyToDisk
-GET     /copyFromDisk/:infpath/:outpath           controllers.Application.copyFromDisk
-GET     /removeFromDisk/:fpath                    controllers.Application.removeFromDisk
+GET     /copyToDisk/:infpath/:outpath             controllers.Application.copyToDisk(infpath: String, outpath: String)
+GET     /copyFromDisk/:infpath/:outpath           controllers.Application.copyFromDisk(infpath: String, outpath: String)
+GET     /removeFromDisk/:fpath                    controllers.Application.removeFromDisk(fpath: String)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file                             controllers.Assets.at(path="/public", file)
