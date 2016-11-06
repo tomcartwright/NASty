@@ -30,26 +30,40 @@ class Application extends Controller {
     val json: JsValue = Json.obj("disks" -> Json.toJson(Drive.listDisks()))
     Ok(json)
   }
-  def mountDisk = Action {
-    Ok(views.html.index())
+  def mountDisk(dir: String) = Action {
+    val success:Int = Drive.mountDisk(dir)
+    val json: JsValue = Json.obj("success" -> Json.toJson(success))
+    Ok(json)
   }
   def ls = Action {
-    Ok(views.html.index())
+    val ls_list: List[String] = Drive.ls()
+    val json: JsValue = Json.obj("ls" -> Json.toJson(ls_list))
+    Ok(json)
   }
   def ll = Action {
-    Ok(views.html.index())
+    val ll_list: List[String] = Drive.ll()
+    val json: JsValue = Json.obj("ll" -> Json.toJson(ll_list))
+    Ok(json)
   }
-  def cd = Action {
-    Ok(views.html.index())
+  def cd(dir: String) = Action {
+    val success: Int = Drive.cd(dir)
+    val json: JsValue = Json.obj("success" -> Json.toJson(success))
+    Ok(json)
   }
-  def copyToDisk = Action {
-    Ok(views.html.index())
+  def copyToDisk(infpath: String, outpath: String) = Action {
+    val success: Int = Drive.copyToDisk(infpath, outpath)
+    val json: JsValue = Json.obj("success" -> Json.toJson(success))
+    Ok(json)
   }
-  def copyFromDisk = Action {
-    Ok(views.html.index())
+  def copyFromDisk(infpath: String, outpath: String) = Action {
+    val success: Int = Drive.copyFromDisk(infpath, outpath)
+    val json: JsValue = Json.obj("success" -> Json.toJson(success))
+    Ok(json)
   }
-  def removeFromDisk = Action {
-    Ok(views.html.index())
+  def removeFromDisk(fpath: String) = Action {
+    val success: Int = Drive.removeFromDisk(fpath)
+    val json: JsValue = Json.obj("success" -> Json.toJson(success))
+    Ok(json)
   }
 
 

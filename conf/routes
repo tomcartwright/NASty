@@ -3,23 +3,23 @@
 # ~~~~
 
 # Home page
-GET     /                           controllers.Application.index
-GET     /drive.scala.html           controllers.Application.drive
-GET     /settings.scala.html        controllers.Application.settings
-GET     /trash.scala.html           controllers.Application.trash
-GET     /starred.scala.html         controllers.Application.starred
+GET     /                                         controllers.Application.index
+GET     /drive.scala.html                         controllers.Application.drive
+GET     /settings.scala.html                      controllers.Application.settings
+GET     /trash.scala.html                         controllers.Application.trash
+GET     /starred.scala.html                       controllers.Application.starred
 
 # REST API
-GET     /listDisks                  controllers.Application.listDisks
-PUT     /mountDisk                  controllers.Application.mountDisk
-GET     /ls                         controllers.Application.ls
-GET     /ll                         controllers.Application.ll
-POST    /cd                         controllers.Application.cd
-POST    /copyToDisk                 controllers.Application.copyToDisk
-POST    /copyFromDisk               controllers.Application.copyFromDisk
-PUT     /removeFromDisk             controllers.Application.removeFromDisk
+GET     /listDisks                                controllers.Application.listDisks
+GET     /mountDisk/:dir                           controllers.Application.mountDisk(dir: String)
+GET     /ls                                       controllers.Application.ls
+GET     /ll                                       controllers.Application.ll
+GET     /cd/:dir                                  controllers.Application.cd(dir: String)
+GET     /copyToDisk/:infpath/:outpath             controllers.Application.copyToDisk
+GET     /copyFromDisk/:infpath/:outpath           controllers.Application.copyFromDisk
+GET     /removeFromDisk/:fpath                    controllers.Application.removeFromDisk
 
 # Map static resources from the /public folder to the /assets URL path
-GET     /assets/*file               controllers.Assets.at(path="/public", file)
+GET     /assets/*file                             controllers.Assets.at(path="/public", file)
 
     
