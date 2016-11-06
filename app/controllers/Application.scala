@@ -36,6 +36,11 @@ class Application extends Controller {
     val json: JsValue = Json.obj("success" -> Json.toJson(success))
     Ok(json)
   }
+  def unmountDisk = Action {
+    val success: Int = Drive.unmountDisk()
+    val json: JsValue = Json.obj("success" -> Json.toJson(success))
+    Ok(json)
+  }
   def ls = Action {
     val ls_list: List[String] = Drive.ls()
     val json: JsValue = Json.obj("ls" -> Json.toJson(ls_list))

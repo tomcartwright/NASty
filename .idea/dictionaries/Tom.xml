@@ -7,6 +7,7 @@
       <w>mkdir</w>
       <w>outpath</w>
       <w>sudo</w>
+      <w>unmount</w>
     </words>
   </dictionary>
 </component>
