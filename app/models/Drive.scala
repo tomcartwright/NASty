@@ -1,4 +1,3 @@
-/*
 package models
 
 import sys.process._
@@ -23,8 +22,9 @@ class Drive(val logLevel: String = "debug") {
     Returns:
       List[String]: list of of disks available on device
      */
-    val d_list: String = "fdisk -l | sda*" !!
-      d_list.split("\n").toList
+    val d_list: String = "fdisk -l | grep sda*" !!
+    val out_list: List[String] = d_list.split("\n").toList
+    out_list
   }
   def mountDisk(disk: String): Int = {
     /*
@@ -34,16 +34,16 @@ class Drive(val logLevel: String = "debug") {
     Returns:
       Int: return 0 on success and -1 on failure
      */
-    val made_dir: Int = "mkdir /media/usb" !
+    val made_dir: Int = "mkdir /media/usb" !;
     if (made_dir == 0) {
-      val success: Int = s"mount ${disk} /media/usb" !
-      if (success == 0) {
-        diskPath = "/media/usb/"
+      val mountSuccess: Int = s"mount ${disk} /media/usb" !;
+      if (mountSuccess == 0) {
         this.mounted = true
-        success
-      }
+        mountSuccess
+      } else -1
     } else -1
   }
+  /*
   def ll(args: String = ""): List[String] = {
     /*
     Performs "ll" on current diskPath
@@ -52,7 +52,8 @@ class Drive(val logLevel: String = "debug") {
     Return:
       List[String]: list of things in diskPath
      */
-    if (this.mounted) s"ls -l ${args} ${diskPath}".split("\n").toList
+    val ll_str: String = s"ls -l${args} ${this.diskPath}" !!;
+    if (this.mounted) ll_str.split("\n").toList
   }
   def ls(args: String = ""): List[String] = {
     /*
@@ -87,7 +88,7 @@ class Drive(val logLevel: String = "debug") {
     Returns:
       Int: 0 on success, -1 on failure
      */
-    val good_infpath: Int = s"cat ${infpath}" !
+    val good_infpath: Int = s"cat ${infpath}" !;
     if (this.mounted && good_infpath == 0) s"cp ${infpath} ${outpath}" ! else -1
   }
   def copyFromDisk(infpath: String, outpath: String): Int = {
@@ -99,7 +100,7 @@ class Drive(val logLevel: String = "debug") {
     Returns:
       Int: 0 on success, -1 otherwise
      */
-    val good_infpath: Int = s"cat ${infpath}" !
+    val good_infpath: Int = s"cat ${infpath}" !;
     if (this.mounted && good_infpath == 0) s"cp ${infpath} ${outpath}" ! else -1
   }
   def removeFromDisk(fpath: String): Int = {
@@ -110,8 +111,9 @@ class Drive(val logLevel: String = "debug") {
     Returns:
       Int: 0 for success, -1 for failure
      */
-    val cat_results: String = s"cat ${fpath}" !!
+    val cat_results: String = s"cat ${fpath}" !!;
     if (cat_results.contains("Is a directory")) s"rm -rf ${fpath}" ! else s"rm -f ${fpath}" !
   }
+  */
 }
-*/
+
