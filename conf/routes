@@ -12,6 +12,7 @@ GET     /starred.scala.html                       controllers.Application.starre
 # REST API
 GET     /listDisks                                controllers.Application.listDisks
 GET     /mountDisk/:dir                           controllers.Application.mountDisk(dir: String)
+GET     /unmountDisk                              controllers.Application.unmountDisk
 GET     /ls                                       controllers.Application.ls
 GET     /ll                                       controllers.Application.ll
 GET     /cd/:dir                                  controllers.Application.cd(dir: String)
