@@ -22,7 +22,7 @@ class NAStyDrive(val logLevel: String = "debug") {
     Returns:
       List[String]: list of of disks available on device
      */
-    val d_list: String = "fdisk -l | grep sda*" !!;
+    val d_list: String = "fdisk -l" #| "grep sda*" !!;
     val out_list: List[String] = d_list.split("\n").toList
     out_list
   }
