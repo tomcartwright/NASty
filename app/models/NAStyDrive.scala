@@ -5,9 +5,9 @@ import sys.process._
 /**
   * Created by Tom on 11/5/16.
   */
-class Drive(val logLevel: String = "debug") {
+class NAStyDrive(val logLevel: String = "debug") {
   /*
-  The Drive class is the primary class for I/O to the NAS driv
+  The Drive class is the primary class for I/O to the NAS drive
   Params:
     logLevel [String]: available choices ["debug"], defaults to "debug"
   Returns:
@@ -22,7 +22,7 @@ class Drive(val logLevel: String = "debug") {
     Returns:
       List[String]: list of of disks available on device
      */
-    val d_list: String = "fdisk -l | grep sda*" !!
+    val d_list: String = "fdisk -l | grep sda*" !!;
     val out_list: List[String] = d_list.split("\n").toList
     out_list
   }
@@ -111,7 +111,7 @@ class Drive(val logLevel: String = "debug") {
       Int: 0 for success, -1 for failure
      */
     val cat_results: String = s"cat ${fpath}" !!;
-    if (cat_results.contains("Is a directory")) s"rm -rf ${fpath}" ! else s"rm -f ${fpath}" !
+    if (cat_results.contains("Is a directory")) s"rm -rf ${fpath}" ! else s"rm -f ${fpath}" !;
   }
 }
 

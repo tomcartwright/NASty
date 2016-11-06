@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/Users/Tom/repos/NASty/conf/routes
-// @DATE:Sun Nov 06 10:11:41 CST 2016
+// @DATE:Sun Nov 06 11:07:27 CST 2016
 
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }
 import play.core.routing.{ HandlerDef, ReverseRouteContext, queryString, dynamicString }
@@ -38,6 +38,12 @@ package controllers {
     def removeFromDisk(): Call = {
       import ReverseRouteContext.empty
       Call("PUT", _prefix + { _defaultPrefix } + "removeFromDisk")
+    }
+  
+    // @LINE:7
+    def drive(): Call = {
+      import ReverseRouteContext.empty
+      Call("GET", _prefix + { _defaultPrefix } + "drive.scala.html")
     }
   
     // @LINE:10
@@ -80,12 +86,6 @@ package controllers {
     def copyFromDisk(): Call = {
       import ReverseRouteContext.empty
       Call("POST", _prefix + { _defaultPrefix } + "copyFromDisk")
-    }
-  
-    // @LINE:7
-    def driv(): Call = {
-      import ReverseRouteContext.empty
-      Call("GET", _prefix + { _defaultPrefix } + "driv.scala.html")
     }
   
     // @LINE:13

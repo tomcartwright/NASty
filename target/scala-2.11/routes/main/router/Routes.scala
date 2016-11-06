@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/Users/Tom/repos/NASty/conf/routes
-// @DATE:Sun Nov 06 10:11:41 CST 2016
+// @DATE:Sun Nov 06 11:07:27 CST 2016
 
 package router
 
@@ -43,7 +43,7 @@ class Routes(
 
   def documentation = List(
     ("""GET""", this.prefix, """controllers.Application.index"""),
-    ("""GET""", this.prefix + (if(this.prefix.endsWith("/")) "" else "/") + """driv.scala.html""", """controllers.Application.driv"""),
+    ("""GET""", this.prefix + (if(this.prefix.endsWith("/")) "" else "/") + """drive.scala.html""", """controllers.Application.drive"""),
     ("""GET""", this.prefix + (if(this.prefix.endsWith("/")) "" else "/") + """settings.scala.html""", """controllers.Application.settings"""),
     ("""GET""", this.prefix + (if(this.prefix.endsWith("/")) "" else "/") + """trash.scala.html""", """controllers.Application.trash"""),
     ("""GET""", this.prefix + (if(this.prefix.endsWith("/")) "" else "/") + """starred.scala.html""", """controllers.Application.starred"""),
@@ -81,19 +81,19 @@ class Routes(
   )
 
   // @LINE:7
-  private[this] lazy val controllers_Application_driv1_route = Route("GET",
-    PathPattern(List(StaticPart(this.prefix), StaticPart(this.defaultPrefix), StaticPart("driv.scala.html")))
+  private[this] lazy val controllers_Application_drive1_route = Route("GET",
+    PathPattern(List(StaticPart(this.prefix), StaticPart(this.defaultPrefix), StaticPart("drive.scala.html")))
   )
-  private[this] lazy val controllers_Application_driv1_invoker = createInvoker(
-    Application_1.driv,
+  private[this] lazy val controllers_Application_drive1_invoker = createInvoker(
+    Application_1.drive,
     HandlerDef(this.getClass.getClassLoader,
       "router",
       "controllers.Application",
-      "driv",
+      "drive",
       Nil,
       "GET",
       """""",
-      this.prefix + """driv.scala.html"""
+      this.prefix + """drive.scala.html"""
     )
   )
 
@@ -311,9 +311,9 @@ class Routes(
       }
   
     // @LINE:7
-    case controllers_Application_driv1_route(params) =>
+    case controllers_Application_drive1_route(params) =>
       call { 
-        controllers_Application_driv1_invoker.call(Application_1.driv)
+        controllers_Application_drive1_invoker.call(Application_1.drive)
       }
   
     // @LINE:8

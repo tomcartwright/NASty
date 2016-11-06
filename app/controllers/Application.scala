@@ -2,6 +2,7 @@ package controllers
 
 import play.api._
 import play.api.mvc._
+import play.api.libs.json._
 import models._
 
 class Application extends Controller {
@@ -9,8 +10,8 @@ class Application extends Controller {
   def index = Action {
     Ok(views.html.index())
   }
-  def driv = Action {
-    Ok(views.html.driv())
+  def drive = Action {
+    Ok(views.html.drive())
   }
   def settings = Action {
     Ok(views.html.settings())
@@ -23,9 +24,11 @@ class Application extends Controller {
   }
 
   // Rest API
-  val drive = new Drive()  // Create new Object
+  val Drive = new NAStyDrive()  // Create new Object
+
   def listDisks = Action {
-    Ok(views.html.index())
+    val json: JsValue = Json.obj("disks" -> Json.toJson(Drive.listDisks()))
+    Ok(json)
   }
   def mountDisk = Action {
     Ok(views.html.index())

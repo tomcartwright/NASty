@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/Users/Tom/repos/NASty/conf/routes
-// @DATE:Sun Nov 06 10:11:41 CST 2016
+// @DATE:Sun Nov 06 11:07:27 CST 2016
 
 import play.api.routing.JavaScriptReverseRoute
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }
@@ -48,6 +48,16 @@ package controllers.javascript {
       """
         function() {
           return _wA({method:"PUT", url:"""" + _prefix + { _defaultPrefix } + """" + "removeFromDisk"})
+        }
+      """
+    )
+  
+    // @LINE:7
+    def drive: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.drive",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "drive.scala.html"})
         }
       """
     )
@@ -118,16 +128,6 @@ package controllers.javascript {
       """
         function() {
           return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "copyFromDisk"})
-        }
-      """
-    )
-  
-    // @LINE:7
-    def driv: JavaScriptReverseRoute = JavaScriptReverseRoute(
-      "controllers.Application.driv",
-      """
-        function() {
-          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "driv.scala.html"})
         }
       """
     )

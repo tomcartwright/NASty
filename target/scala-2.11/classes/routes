@@ -4,7 +4,7 @@
 
 # Home page
 GET     /                           controllers.Application.index
-GET     /driv.scala.html           controllers.Application.driv
+GET     /drive.scala.html           controllers.Application.drive
 GET     /settings.scala.html        controllers.Application.settings
 GET     /trash.scala.html           controllers.Application.trash
 GET     /starred.scala.html         controllers.Application.starred

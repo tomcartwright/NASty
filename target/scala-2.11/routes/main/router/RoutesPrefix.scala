@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/Users/Tom/repos/NASty/conf/routes
-// @DATE:Sun Nov 06 10:11:41 CST 2016
+// @DATE:Sun Nov 06 11:07:27 CST 2016
 
 
 package router {
