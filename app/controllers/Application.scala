@@ -31,7 +31,7 @@ class Application extends Controller {
     Ok(json)
   }
   def mountDisk(dir: String) = Action {
-    val clean_dir: String = dir.replaceAll("%2f*", "/")
+    val clean_dir: String = dir.replaceAll("(%2f)*", "/")
     val success:Int = Drive.mountDisk(clean_dir)
     val json: JsValue = Json.obj("success" -> Json.toJson(success))
     Ok(json)
@@ -47,23 +47,23 @@ class Application extends Controller {
     Ok(json)
   }
   def cd(dir: String) = Action {
-    val clean_dir: String = dir.replaceAll("%2f*", "/")
+    val clean_dir: String = dir.replaceAll("(%2f)*", "/")
     val success: Int = Drive.cd(clean_dir)
     val json: JsValue = Json.obj("success" -> Json.toJson(success))
     Ok(json)
   }
   def copyToDisk(infpath: String, outpath: String) = Action {
-    val success: Int = Drive.copyToDisk(infpath.replaceAll("%2f*", "/"), outpath.replaceAll("%2f*", "/"))
+    val success: Int = Drive.copyToDisk(infpath.replaceAll("(%2f)*", "/"), outpath.replaceAll("(%2f)*", "/"))
     val json: JsValue = Json.obj("success" -> Json.toJson(success))
     Ok(json)
   }
   def copyFromDisk(infpath: String, outpath: String) = Action {
-    val success: Int = Drive.copyFromDisk(infpath.replaceAll("%2f*", "/"), outpath.replaceAll("%2f*", "/"))
+    val success: Int = Drive.copyFromDisk(infpath.replaceAll("(%2f)*", "/"), outpath.replaceAll("(%2f)*", "/"))
     val json: JsValue = Json.obj("success" -> Json.toJson(success))
     Ok(json)
   }
   def removeFromDisk(fpath: String) = Action {
-    val success: Int = Drive.removeFromDisk(fpath.replaceAll("%2f*", "/"))
+    val success: Int = Drive.removeFromDisk(fpath.replaceAll("(%2f)*", "/"))
     val json: JsValue = Json.obj("success" -> Json.toJson(success))
     Ok(json)
   }
