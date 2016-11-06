@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/Users/seanavila/repos/NASty/conf/routes
-// @DATE:Sun Nov 06 05:53:05 CST 2016
+// @SOURCE:/Users/Tom/repos/NASty/conf/routes
+// @DATE:Sun Nov 06 10:11:41 CST 2016
 
 import play.api.routing.JavaScriptReverseRoute
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }
@@ -14,7 +14,7 @@ import _root_.controllers.Assets.Asset
 package controllers.javascript {
   import ReverseRouteContext.empty
 
-  // @LINE:14
+  // @LINE:23
   class ReverseAssets(_prefix: => String) {
 
     def _defaultPrefix: String = {
@@ -22,7 +22,7 @@ package controllers.javascript {
     }
 
   
-    // @LINE:14
+    // @LINE:23
     def at: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.Assets.at",
       """
@@ -42,12 +42,12 @@ package controllers.javascript {
     }
 
   
-    // @LINE:7
-    def drive: JavaScriptReverseRoute = JavaScriptReverseRoute(
-      "controllers.Application.drive",
+    // @LINE:20
+    def removeFromDisk: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.removeFromDisk",
       """
         function() {
-          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "drive.scala.html"})
+          return _wA({method:"PUT", url:"""" + _prefix + { _defaultPrefix } + """" + "removeFromDisk"})
         }
       """
     )
@@ -62,6 +62,16 @@ package controllers.javascript {
       """
     )
   
+    // @LINE:15
+    def ls: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.ls",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "ls"})
+        }
+      """
+    )
+  
     // @LINE:8
     def settings: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.Application.settings",
@@ -72,12 +82,82 @@ package controllers.javascript {
       """
     )
   
+    // @LINE:14
+    def mountDisk: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.mountDisk",
+      """
+        function() {
+          return _wA({method:"PUT", url:"""" + _prefix + { _defaultPrefix } + """" + "mountDisk"})
+        }
+      """
+    )
+  
     // @LINE:9
     def trash: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.Application.trash",
       """
         function() {
           return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "trash.scala.html"})
+        }
+      """
+    )
+  
+    // @LINE:16
+    def ll: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.ll",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "ll"})
+        }
+      """
+    )
+  
+    // @LINE:19
+    def copyFromDisk: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.copyFromDisk",
+      """
+        function() {
+          return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "copyFromDisk"})
+        }
+      """
+    )
+  
+    // @LINE:7
+    def driv: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.driv",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "driv.scala.html"})
+        }
+      """
+    )
+  
+    // @LINE:13
+    def listDisks: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.listDisks",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "listDisks"})
+        }
+      """
+    )
+  
+    // @LINE:18
+    def copyToDisk: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.copyToDisk",
+      """
+        function() {
+          return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "copyToDisk"})
+        }
+      """
+    )
+  
+    // @LINE:17
+    def cd: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.cd",
+      """
+        function() {
+          return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "cd"})
         }
       """
     )

@@ -1,3 +1,3 @@
 [debug] Copy resource mappings: 
-[debug] 	(/Users/seanavila/repos/NASty/conf/application.conf,/Users/seanavila/repos/NASty/target/scala-2.11/classes/application.conf)
-[debug] 	(/Users/seanavila/repos/NASty/conf/routes,/Users/seanavila/repos/NASty/target/scala-2.11/classes/routes)
+[debug] 	(/Users/Tom/repos/NASty/conf/application.conf,/Users/Tom/repos/NASty/target/scala-2.11/classes/application.conf)
+[debug] 	(/Users/Tom/repos/NASty/conf/routes,/Users/Tom/repos/NASty/target/scala-2.11/classes/routes)

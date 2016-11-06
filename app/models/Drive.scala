@@ -7,7 +7,7 @@ import sys.process._
   */
 class Drive(val logLevel: String = "debug") {
   /*
-  The Drive class is the primary class for I/O to the NAS drive
+  The Drive class is the primary class for I/O to the NAS driv
   Params:
     logLevel [String]: available choices ["debug"], defaults to "debug"
   Returns:
@@ -43,7 +43,6 @@ class Drive(val logLevel: String = "debug") {
       } else -1
     } else -1
   }
-  /*
   def ll(args: String = ""): List[String] = {
     /*
     Performs "ll" on current diskPath
@@ -53,7 +52,7 @@ class Drive(val logLevel: String = "debug") {
       List[String]: list of things in diskPath
      */
     val ll_str: String = s"ls -l${args} ${this.diskPath}" !!;
-    if (this.mounted) ll_str.split("\n").toList
+    if (this.mounted) ll_str.split("\n").toList else List("")
   }
   def ls(args: String = ""): List[String] = {
     /*
@@ -114,6 +113,5 @@ class Drive(val logLevel: String = "debug") {
     val cat_results: String = s"cat ${fpath}" !!;
     if (cat_results.contains("Is a directory")) s"rm -rf ${fpath}" ! else s"rm -f ${fpath}" !
   }
-  */
 }
 
