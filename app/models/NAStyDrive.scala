@@ -36,12 +36,10 @@ class NAStyDrive(val logLevel: String = "debug") {
       Int: return 0 on success and -1 on failure
      */
     val made_dir: Int = "mkdir /media/usb" !;
-    if (made_dir == 0) {
-      val mountSuccess: Int = s"mount ${disk} /media/usb" !;
-      if (mountSuccess == 0) {
-        this.mounted = true
-        mountSuccess
-      } else -1
+    val mountSuccess: Int = s"mount ${disk} /media/usb" !;
+    if (mountSuccess == 0) {
+      this.mounted = true
+      mountSuccess
     } else -1
   }
   def ll(args: String = ""): List[String] = {
