@@ -66,7 +66,7 @@ class NAStyDrive(val logLevel: String = "debug") {
       List[String]: list of items in diskPath as if it was from the "ls" command
      */
     val ll_list: List[String] = this.ll(args)
-    val ls_list: List[String] = ll_list.map(str => str.split(" ").slice(9, str.split(" ").length).mkString(" "))
+    val ls_list: List[String] = ll_list.map(str => str.split(" +").slice(9, str.split(" +").length).mkString(" "))
     ls_list
   }
   def cd(dir: String): Int = {
