@@ -24,7 +24,8 @@ class NAStyDrive(val logLevel: String = "debug") {
      */
     val d_list: String = "fdisk -l" #| "grep sda*" !!;
     val out_list: List[String] = d_list.split("\n").toList
-    out_list
+    val out: List[String] = out_list.slice(1, out_list.length).map(str => str.split(" ")(0))
+    out
   }
   def mountDisk(disk: String): Int = {
     /*
