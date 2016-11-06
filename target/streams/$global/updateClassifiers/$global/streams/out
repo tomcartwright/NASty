@@ -4,19 +4,19 @@
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
-[info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cbf0c08
-[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
-[debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.7
-[debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
-[debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.11.8 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4678250b
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.8
+[debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
+[debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [info] Resolving com.typesafe.play#twirl-api_2.11;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57a801dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36418cfc
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#twirl-api_2.11;1.1.1
 [debug] 	local: revision in cache: com.typesafe.play#twirl-api_2.11;1.1.1
 [debug] 	found com.typesafe.play#twirl-api_2.11;1.1.1 in sbt-chain
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68343fcd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61972c05
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.4
 [debug] 	local: revision in cache: org.apache.commons#commons-lang3;3.4
 [debug] 	found org.apache.commons#commons-lang3;3.4 in sbt-chain
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e4553a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@334b5c98
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
@@ -43,7 +43,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-server_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-server_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d637f82
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d3dc942
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-server_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-server_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-server_2.11;2.5.9 in sbt-chain
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-server_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70bef1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c4d12fc
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play_2.11;2.5.9
 [debug] 	found com.typesafe.play#play_2.11;2.5.9 in sbt-chain
@@ -61,7 +61,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#build-link;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#build-link;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@242ecb72
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63026c38
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#build-link;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#build-link;2.5.9
 [debug] 	found com.typesafe.play#build-link;2.5.9 in sbt-chain
@@ -70,7 +70,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#build-link;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-exceptions;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2296633d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@172ac467
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-exceptions;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-exceptions;2.5.9
 [debug] 	found com.typesafe.play#play-exceptions;2.5.9 in sbt-chain
@@ -79,7 +79,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f94a052
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@720821b1
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-iteratees_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.5.9 in sbt-chain
@@ -88,7 +88,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3aa63064
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44e8d9ef
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	local: revision in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
@@ -97,7 +97,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59d38399
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28d5b902
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	local: revision in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@580cfb0e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34ec4a57
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-json_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-json_2.11;2.5.9 in sbt-chain
@@ -115,7 +115,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ee5a10d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3393bec
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-functional_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-functional_2.11;2.5.9 in sbt-chain
@@ -124,7 +124,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ea19
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11d1177d
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-datacommons_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.5.9 in sbt-chain
@@ -133,7 +133,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->joda-time#joda-time;2.9.4 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.9.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62d6c777
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@aebae69
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.9.4
 [debug] 	local: revision in cache: joda-time#joda-time;2.9.4
 [debug] 	found joda-time#joda-time;2.9.4 in sbt-chain
@@ -142,7 +142,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->joda-time#joda-time;2.9.4 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.joda#joda-convert;1.8.1 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.8.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26da1aa2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e661375
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.8.1
 [debug] 	local: revision in cache: org.joda#joda-convert;1.8.1
 [debug] 	found org.joda#joda-convert;1.8.1 in sbt-chain
@@ -151,7 +151,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.joda#joda-convert;1.8.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15227f10
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fb98a22
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
@@ -161,7 +161,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.7.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b8352c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ef4b6f8
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-core;2.7.6
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.7.6 in sbt-chain
@@ -170,7 +170,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.7.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a3d23f3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a8ea163
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-annotations;2.7.6
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.7.6 in sbt-chain
@@ -179,7 +179,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.7.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a316413
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c02a70e
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-databind;2.7.6
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.7.6 in sbt-chain
@@ -188,7 +188,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75451393
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24a4abde
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 in sbt-chain
@@ -197,7 +197,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a746e98
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a6e5739
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 in sbt-chain
@@ -206,7 +206,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-utils;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29f299ed
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7add38a1
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-utils;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-netty-utils;2.5.9
 [debug] 	found com.typesafe.play#play-netty-utils;2.5.9 in sbt-chain
@@ -215,7 +215,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.21 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@346f7e22
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ead40f0
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.21
 [debug] 	local: revision in cache: org.slf4j#slf4j-api;1.7.21
 [debug] 	found org.slf4j#slf4j-api;1.7.21 in sbt-chain
@@ -224,7 +224,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.21 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.21 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3983dead
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f9aede7
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.21
 [debug] 	local: revision in cache: org.slf4j#jul-to-slf4j;1.7.21
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.21 in sbt-chain
@@ -233,7 +233,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.21 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.21 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@131999f5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38bf5806
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.21
 [debug] 	local: revision in cache: org.slf4j#jcl-over-slf4j;1.7.21
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.21 in sbt-chain
@@ -242,7 +242,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.21 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-streams_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a02c76
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ab2f660
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-streams_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-streams_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-streams_2.11;2.5.9 in sbt-chain
@@ -251,7 +251,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->default(compile)]
 [info] Resolving org.reactivestreams#reactive-streams;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16b10c1d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76088c32
 [debug] sbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;1.0.0
 [debug] 	local: revision in cache: org.reactivestreams#reactive-streams;1.0.0
 [debug] 	found org.reactivestreams#reactive-streams;1.0.0 in sbt-chain
@@ -260,7 +260,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.10 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-stream_2.11;2.4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22c7de53
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@742df750
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-stream_2.11;2.4.10
 [debug] 	local: revision in cache: com.typesafe.akka#akka-stream_2.11;2.4.10
 [debug] 	found com.typesafe.akka#akka-stream_2.11;2.4.10 in sbt-chain
@@ -269,7 +269,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.10 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5607bb7b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f47f462
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.4.10
 [debug] 	local: revision in cache: com.typesafe.akka#akka-actor_2.11;2.4.10
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.4.10 in sbt-chain
@@ -278,7 +278,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bcd3848
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@598403c7
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-java8-compat_2.11;0.7.0
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-java8-compat_2.11;0.7.0
 [debug] 	found org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 in sbt-chain
@@ -287,7 +287,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-akka_2.11;0.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1bdb786c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@856ed3b
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-akka_2.11;0.2.1
 [debug] 	local: revision in cache: com.typesafe#ssl-config-akka_2.11;0.2.1
 [debug] 	found com.typesafe#ssl-config-akka_2.11;0.2.1 in sbt-chain
@@ -296,7 +296,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.2.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-core_2.11;0.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c750278
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c80deac
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-core_2.11;0.2.1
 [debug] 	local: revision in cache: com.typesafe#ssl-config-core_2.11;0.2.1
 [debug] 	found com.typesafe#ssl-config-core_2.11;0.2.1 in sbt-chain
@@ -305,7 +305,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.2.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66907e8c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76cf3da4
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
@@ -314,7 +314,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.4.10 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@126a027c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1be5397b
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.4.10
 [debug] 	local: revision in cache: com.typesafe.akka#akka-slf4j_2.11;2.4.10
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.4.10 in sbt-chain
@@ -323,7 +323,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.4.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f1514
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@721e36e
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.10
 [debug] 	local: revision in cache: commons-codec#commons-codec;1.10
 [debug] 	found commons-codec#commons-codec;1.10 in sbt-chain
@@ -332,7 +332,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->default(compile)]
 [info] Resolving xerces#xercesImpl;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36b40177
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3860a6b4
 [debug] sbt-chain: module revision found in cache: xerces#xercesImpl;2.11.0
 [debug] 	local: revision in cache: xerces#xercesImpl;2.11.0
 [debug] 	found xerces#xercesImpl;2.11.0 in sbt-chain
@@ -341,7 +341,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.4.01 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c0fa50e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f3ef236
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.4.01
 [debug] 	local: revision in cache: xml-apis#xml-apis;1.4.01
 [debug] 	found xml-apis#xml-apis;1.4.01 in sbt-chain
@@ -350,7 +350,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
 [info] Resolving javax.transaction#jta;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38a28ea3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b2382bc
 [debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
 [debug] 	local: revision in cache: javax.transaction#jta;1.1
 [debug] 	found javax.transaction#jta;1.1 in sbt-chain
@@ -359,7 +359,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c6c041b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3300b7cf
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;4.0
 [debug] 	local: revision in cache: com.google.inject#guice;4.0
 [debug] 	found com.google.inject#guice;4.0 in sbt-chain
@@ -368,7 +368,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ab337bf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5734dbd4
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	local: revision in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
@@ -377,7 +377,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ca9c4a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7abb0c62
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	local: revision in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
@@ -386,28 +386,16 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject.extensions#guice-assistedinject;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5825f716
-[debug] 		tried /Users/Tom/.ivy2/local/com.google.inject.extensions/guice-assistedinject/4.0/ivys/ivy.xml
-[debug] 	local: no ivy file found for com.google.inject.extensions#guice-assistedinject;4.0
-[debug] 		tried https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
-[debug] 	jcenter: found md file for com.google.inject.extensions#guice-assistedinject;4.0
-[debug] 		=> https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom (4.0)
-[debug] downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
-[debug] 	[SUCCESSFUL ] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.pom(pom.original) (355ms)
-[info] Resolving com.google.inject.extensions#extensions-parent;4.0 ...
-[debug] sbt-chain: Checking cache for: dependency: com.google.inject.extensions#extensions-parent;4.0 {}
-[debug] sbt-chain: module revision found in cache: com.google.inject.extensions#extensions-parent;4.0
-[debug] 	local: revision in cache: com.google.inject.extensions#extensions-parent;4.0
-[debug] 	found com.google.inject.extensions#guice-assistedinject;4.0 in jcenter
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70916aa0
+[debug] sbt-chain: module revision found in cache: com.google.inject.extensions#guice-assistedinject;4.0
+[debug] 	local: revision in cache: com.google.inject.extensions#guice-assistedinject;4.0
+[debug] 	found com.google.inject.extensions#guice-assistedinject;4.0 in sbt-chain
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-server_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-server_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63d77797
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2db8bc16
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-server_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-netty-server_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-netty-server_2.11;2.5.9 in sbt-chain
@@ -416,7 +404,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-server_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams-http;1.0.8 [compile->default(compile)]
 [info] Resolving com.typesafe.netty#netty-reactive-streams-http;1.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c68b193
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e12af74
 [debug] sbt-chain: module revision found in cache: com.typesafe.netty#netty-reactive-streams-http;1.0.8
 [debug] 	local: revision in cache: com.typesafe.netty#netty-reactive-streams-http;1.0.8
 [debug] 	found com.typesafe.netty#netty-reactive-streams-http;1.0.8 in sbt-chain
@@ -425,7 +413,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams-http;1.0.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams;1.0.8 [compile->default(compile)]
 [info] Resolving com.typesafe.netty#netty-reactive-streams;1.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c4219b2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7621fa86
 [debug] sbt-chain: module revision found in cache: com.typesafe.netty#netty-reactive-streams;1.0.8
 [debug] 	local: revision in cache: com.typesafe.netty#netty-reactive-streams;1.0.8
 [debug] 	found com.typesafe.netty#netty-reactive-streams;1.0.8 in sbt-chain
@@ -434,7 +422,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams;1.0.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-handler;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-handler;4.0.41.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4608ce9d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@700b0d9a
 [debug] sbt-chain: module revision found in cache: io.netty#netty-handler;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-handler;4.0.41.Final
 [debug] 	found io.netty#netty-handler;4.0.41.Final in sbt-chain
@@ -443,7 +431,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-handler;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-buffer;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-buffer;4.0.41.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bfac760
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1aef86b8
 [debug] sbt-chain: module revision found in cache: io.netty#netty-buffer;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-buffer;4.0.41.Final
 [debug] 	found io.netty#netty-buffer;4.0.41.Final in sbt-chain
@@ -452,7 +440,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-buffer;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-common;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-common;4.0.41.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25bbe707
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25df368
 [debug] sbt-chain: module revision found in cache: io.netty#netty-common;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-common;4.0.41.Final
 [debug] 	found io.netty#netty-common;4.0.41.Final in sbt-chain
@@ -461,7 +449,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-common;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-transport;4.0.41.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b7842e6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ad05a3d
 [debug] sbt-chain: module revision found in cache: io.netty#netty-transport;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-transport;4.0.41.Final
 [debug] 	found io.netty#netty-transport;4.0.41.Final in sbt-chain
@@ -470,7 +458,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-codec;4.0.41.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10c9d5a4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fb2ed26
 [debug] sbt-chain: module revision found in cache: io.netty#netty-codec;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-codec;4.0.41.Final
 [debug] 	found io.netty#netty-codec;4.0.41.Final in sbt-chain
@@ -479,7 +467,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec-http;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-codec-http;4.0.41.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d2f9529
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d974209
 [debug] sbt-chain: module revision found in cache: io.netty#netty-codec-http;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-codec-http;4.0.41.Final
 [debug] 	found io.netty#netty-codec-http;4.0.41.Final in sbt-chain
@@ -488,7 +476,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec-http;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport-native-epoll;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-transport-native-epoll;4.0.41.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e7082c4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b064972
 [debug] sbt-chain: module revision found in cache: io.netty#netty-transport-native-epoll;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-transport-native-epoll;4.0.41.Final
 [debug] 	found io.netty#netty-transport-native-epoll;4.0.41.Final in sbt-chain
@@ -497,7 +485,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport-native-epoll;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-logback_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-logback_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@622cc32e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e83545b
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-logback_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-logback_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-logback_2.11;2.5.9 in sbt-chain
@@ -506,7 +494,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-logback_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f40db82
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ed41820
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.1.7
 [debug] 	local: revision in cache: ch.qos.logback#logback-classic;1.1.7
 [debug] 	found ch.qos.logback#logback-classic;1.1.7 in sbt-chain
@@ -515,7 +503,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46c70c11
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d66af17
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.1.7
 [debug] 	local: revision in cache: ch.qos.logback#logback-core;1.1.7
 [debug] 	found ch.qos.logback#logback-core;1.1.7 in sbt-chain
@@ -524,7 +512,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-jdbc_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7976f2cb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@708d2538
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-jdbc_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-jdbc_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-jdbc_2.11;2.5.9 in sbt-chain
@@ -533,7 +521,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc-api_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-jdbc-api_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3736fdf8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6946011e
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-jdbc-api_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-jdbc-api_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-jdbc-api_2.11;2.5.9 in sbt-chain
@@ -542,7 +530,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc-api_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.jolbox#bonecp;0.8.0.RELEASE [compile->default(compile)]
 [info] Resolving com.jolbox#bonecp;0.8.0.RELEASE ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1154a5aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fdc0682
 [debug] sbt-chain: module revision found in cache: com.jolbox#bonecp;0.8.0.RELEASE
 [debug] 	local: revision in cache: com.jolbox#bonecp;0.8.0.RELEASE
 [debug] 	found com.jolbox#bonecp;0.8.0.RELEASE in sbt-chain
@@ -551,7 +539,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.jolbox#bonecp;0.8.0.RELEASE [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.zaxxer#HikariCP;2.5.1 [compile->default(compile)]
 [info] Resolving com.zaxxer#HikariCP;2.5.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71a8d95
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@677b506b
 [debug] sbt-chain: module revision found in cache: com.zaxxer#HikariCP;2.5.1
 [debug] 	local: revision in cache: com.zaxxer#HikariCP;2.5.1
 [debug] 	found com.zaxxer#HikariCP;2.5.1 in sbt-chain
@@ -560,7 +548,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.zaxxer#HikariCP;2.5.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.googlecode.usc#jdbcdslog;1.0.6.2 [compile->default(compile)]
 [info] Resolving com.googlecode.usc#jdbcdslog;1.0.6.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a371003
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@145d4db5
 [debug] sbt-chain: module revision found in cache: com.googlecode.usc#jdbcdslog;1.0.6.2
 [debug] 	local: revision in cache: com.googlecode.usc#jdbcdslog;1.0.6.2
 [debug] 	found com.googlecode.usc#jdbcdslog;1.0.6.2 in sbt-chain
@@ -569,7 +557,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.googlecode.usc#jdbcdslog;1.0.6.2 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.h2database#h2;1.4.192 [compile->default(compile)]
 [info] Resolving com.h2database#h2;1.4.192 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5950c763
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@706f3891
 [debug] sbt-chain: module revision found in cache: com.h2database#h2;1.4.192
 [debug] 	local: revision in cache: com.h2database#h2;1.4.192
 [debug] 	found com.h2database#h2;1.4.192 in sbt-chain
@@ -578,7 +566,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.h2database#h2;1.4.192 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-cache_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-cache_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4963fd9b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50474c5b
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-cache_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-cache_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-cache_2.11;2.5.9 in sbt-chain
@@ -587,7 +575,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-cache_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sf.ehcache#ehcache-core;2.6.11 [compile->default(compile)]
 [info] Resolving net.sf.ehcache#ehcache-core;2.6.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@633afe52
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42de8da3
 [debug] sbt-chain: module revision found in cache: net.sf.ehcache#ehcache-core;2.6.11
 [debug] 	local: revision in cache: net.sf.ehcache#ehcache-core;2.6.11
 [debug] 	found net.sf.ehcache#ehcache-core;2.6.11 in sbt-chain
@@ -596,7 +584,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sf.ehcache#ehcache-core;2.6.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-ws_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-ws_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1197798a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a1c133b
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-ws_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-ws_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-ws_2.11;2.5.9 in sbt-chain
@@ -605,7 +593,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-ws_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.guava#guava;19.0 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;19.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23fc3256
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53b5d462
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;19.0
 [debug] 	local: revision in cache: com.google.guava#guava;19.0
 [debug] 	found com.google.guava#guava;19.0 in sbt-chain
@@ -614,7 +602,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.guava#guava;19.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#async-http-client;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#async-http-client;2.0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c2dfe92
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4443bf81
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#async-http-client;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#async-http-client;2.0.11
 [debug] 	found org.asynchttpclient#async-http-client;2.0.11 in sbt-chain
@@ -623,7 +611,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#async-http-client;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver-dns;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#netty-resolver-dns;2.0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70219bda
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b8dd87f
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#netty-resolver-dns;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#netty-resolver-dns;2.0.11
 [debug] 	found org.asynchttpclient#netty-resolver-dns;2.0.11 in sbt-chain
@@ -632,7 +620,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver-dns;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#netty-resolver;2.0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@659f9c46
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b6b44d9
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#netty-resolver;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#netty-resolver;2.0.11
 [debug] 	found org.asynchttpclient#netty-resolver;2.0.11 in sbt-chain
@@ -641,7 +629,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-codec-dns;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#netty-codec-dns;2.0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2df3e5a7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28909875
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#netty-codec-dns;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#netty-codec-dns;2.0.11
 [debug] 	found org.asynchttpclient#netty-codec-dns;2.0.11 in sbt-chain
@@ -650,7 +638,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-codec-dns;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.javassist#javassist;3.20.0-GA [compile->default(compile)]
 [info] Resolving org.javassist#javassist;3.20.0-GA ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d2e228b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@410c50b8
 [debug] sbt-chain: module revision found in cache: org.javassist#javassist;3.20.0-GA
 [debug] 	local: revision in cache: org.javassist#javassist;3.20.0-GA
 [debug] 	found org.javassist#javassist;3.20.0-GA in sbt-chain
@@ -659,7 +647,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.javassist#javassist;3.20.0-GA [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-core;1.2.1.2 [compile->default(compile)]
 [info] Resolving oauth.signpost#signpost-core;1.2.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f71f439
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f76b177
 [debug] sbt-chain: module revision found in cache: oauth.signpost#signpost-core;1.2.1.2
 [debug] 	local: revision in cache: oauth.signpost#signpost-core;1.2.1.2
 [debug] 	found oauth.signpost#signpost-core;1.2.1.2 in sbt-chain
@@ -668,7 +656,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-core;1.2.1.2 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-commonshttp4;1.2.1.2 [compile->default(compile)]
 [info] Resolving oauth.signpost#signpost-commonshttp4;1.2.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6897c51e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18475e48
 [debug] sbt-chain: module revision found in cache: oauth.signpost#signpost-commonshttp4;1.2.1.2
 [debug] 	local: revision in cache: oauth.signpost#signpost-commonshttp4;1.2.1.2
 [debug] 	found oauth.signpost#signpost-commonshttp4;1.2.1.2 in sbt-chain
@@ -677,7 +665,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-commonshttp4;1.2.1.2 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.0.1 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17c5c1f8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f76f285
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.0.1
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpcore;4.0.1
 [debug] 	found org.apache.httpcomponents#httpcore;4.0.1 in sbt-chain
@@ -686,7 +674,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.0.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.0.1 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a2e3579
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cdd9641
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.0.1
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpclient;4.0.1
 [debug] 	found org.apache.httpcomponents#httpclient;4.0.1 in sbt-chain
@@ -695,7 +683,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.0.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1703b51a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19e902b6
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	local: revision in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
@@ -705,10 +693,10 @@
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [runtime]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->compile]
@@ -1009,10 +997,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->compile]
@@ -1317,10 +1305,10 @@
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [test]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [runtime]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->compile]
@@ -1609,10 +1597,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.0.1 [compile->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.0.1 [compile->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->compile]
@@ -1901,10 +1889,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.0.1 [runtime->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.0.1 [runtime->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test->compile]
@@ -2191,7 +2179,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-commonshttp4;1.2.1.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-test_2.11;2.5.9 [test->default(compile)]
 [info] Resolving com.typesafe.play#play-test_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@615a2e58
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5281403a
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-test_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-test_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-test_2.11;2.5.9 in sbt-chain
@@ -2200,7 +2188,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-test_2.11;2.5.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->junit#junit;4.12 [test->default(compile)]
 [info] Resolving junit#junit;4.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dc3507c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7576d888
 [debug] sbt-chain: module revision found in cache: junit#junit;4.12
 [debug] 	local: revision in cache: junit#junit;4.12
 [debug] 	found junit#junit;4.12 in sbt-chain
@@ -2209,7 +2197,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->junit#junit;4.12 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e1bc469
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3afd9097
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	local: revision in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
@@ -2218,7 +2206,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.novocode#junit-interface;0.11 [test->default(compile)]
 [info] Resolving com.novocode#junit-interface;0.11 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15e766a0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75688cc4
 [debug] sbt-chain: module revision found in cache: com.novocode#junit-interface;0.11
 [debug] 	local: revision in cache: com.novocode#junit-interface;0.11
 [debug] 	found com.novocode#junit-interface;0.11 in sbt-chain
@@ -2227,7 +2215,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.novocode#junit-interface;0.11 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
 [info] Resolving org.scala-sbt#test-interface;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bc15134
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dcfd607
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
 [debug] 	local: revision in cache: org.scala-sbt#test-interface;1.0
 [debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
@@ -2236,7 +2224,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.findbugs#jsr305;3.0.1 [test->default(compile)]
 [info] Resolving com.google.code.findbugs#jsr305;3.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c25f923
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2712ea0c
 [debug] sbt-chain: module revision found in cache: com.google.code.findbugs#jsr305;3.0.1
 [debug] 	local: revision in cache: com.google.code.findbugs#jsr305;3.0.1
 [debug] 	found com.google.code.findbugs#jsr305;3.0.1 in sbt-chain
@@ -2245,7 +2233,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.findbugs#jsr305;3.0.1 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit;2.20 [test->default(compile)]
 [info] Resolving net.sourceforge.htmlunit#htmlunit;2.20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76eee2c9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ba73a7a
 [debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit;2.20
 [debug] 	local: revision in cache: net.sourceforge.htmlunit#htmlunit;2.20
 [debug] 	found net.sourceforge.htmlunit#htmlunit;2.20 in sbt-chain
@@ -2254,7 +2242,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit;2.20 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#xalan;2.7.2 [test->default(compile)]
 [info] Resolving xalan#xalan;2.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17b6f520
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4751c79f
 [debug] sbt-chain: module revision found in cache: xalan#xalan;2.7.2
 [debug] 	local: revision in cache: xalan#xalan;2.7.2
 [debug] 	found xalan#xalan;2.7.2 in sbt-chain
@@ -2263,7 +2251,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#xalan;2.7.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#serializer;2.7.2 [test->default(compile)]
 [info] Resolving xalan#serializer;2.7.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@270d62f1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30dd26c4
 [debug] sbt-chain: module revision found in cache: xalan#serializer;2.7.2
 [debug] 	local: revision in cache: xalan#serializer;2.7.2
 [debug] 	found xalan#serializer;2.7.2 in sbt-chain
@@ -2272,7 +2260,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#serializer;2.7.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.5.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e5ba0ef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f1ef55b
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.5.2
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpclient;4.5.2
 [debug] 	found org.apache.httpcomponents#httpclient;4.5.2 in sbt-chain
@@ -2281,7 +2269,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7547bb43
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@163abc18
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.4.4
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpcore;4.4.4
 [debug] 	found org.apache.httpcomponents#httpcore;4.4.4 in sbt-chain
@@ -2290,7 +2278,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [test->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@84b204e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49bee548
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.2
 [debug] 	local: revision in cache: commons-logging#commons-logging;1.2
 [debug] 	found commons-logging#commons-logging;1.2 in sbt-chain
@@ -2299,7 +2287,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpmime;4.5.2 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpmime;4.5.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cb108b4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38909aca
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpmime;4.5.2
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpmime;4.5.2
 [debug] 	found org.apache.httpcomponents#httpmime;4.5.2 in sbt-chain
@@ -2308,7 +2296,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpmime;4.5.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit-core-js;2.17 [test->default(compile)]
 [info] Resolving net.sourceforge.htmlunit#htmlunit-core-js;2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e6a215f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45a30530
 [debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit-core-js;2.17
 [debug] 	local: revision in cache: net.sourceforge.htmlunit#htmlunit-core-js;2.17
 [debug] 	found net.sourceforge.htmlunit#htmlunit-core-js;2.17 in sbt-chain
@@ -2317,7 +2305,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit-core-js;2.17 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.nekohtml#nekohtml;1.9.22 [test->default(compile)]
 [info] Resolving net.sourceforge.nekohtml#nekohtml;1.9.22 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a9e1395
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9a8ef7a
 [debug] sbt-chain: module revision found in cache: net.sourceforge.nekohtml#nekohtml;1.9.22
 [debug] 	local: revision in cache: net.sourceforge.nekohtml#nekohtml;1.9.22
 [debug] 	found net.sourceforge.nekohtml#nekohtml;1.9.22 in sbt-chain
@@ -2326,7 +2314,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.nekohtml#nekohtml;1.9.22 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.cssparser#cssparser;0.9.18 [test->default(compile)]
 [info] Resolving net.sourceforge.cssparser#cssparser;0.9.18 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8dfee24
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@661969e4
 [debug] sbt-chain: module revision found in cache: net.sourceforge.cssparser#cssparser;0.9.18
 [debug] 	local: revision in cache: net.sourceforge.cssparser#cssparser;0.9.18
 [debug] 	found net.sourceforge.cssparser#cssparser;0.9.18 in sbt-chain
@@ -2335,7 +2323,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.cssparser#cssparser;0.9.18 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.w3c.css#sac;1.3 [test->default(compile)]
 [info] Resolving org.w3c.css#sac;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@af8b1b1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ede08cf
 [debug] sbt-chain: module revision found in cache: org.w3c.css#sac;1.3
 [debug] 	local: revision in cache: org.w3c.css#sac;1.3
 [debug] 	found org.w3c.css#sac;1.3 in sbt-chain
@@ -2344,7 +2332,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.w3c.css#sac;1.3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-io#commons-io;2.4 [test->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@529ec9b2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b2a78ea
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	local: revision in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
@@ -2353,7 +2341,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-io#commons-io;2.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76426f54
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ab4c0d4
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 in sbt-chain
@@ -2362,7 +2350,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-util;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-util;9.2.15.v20160210 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ef10a2e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f8136a0
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-util;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-util;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty#jetty-util;9.2.15.v20160210 in sbt-chain
@@ -2371,7 +2359,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-util;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-io;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-io;9.2.15.v20160210 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44f54ba2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@765ff363
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-io;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-io;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty#jetty-io;9.2.15.v20160210 in sbt-chain
@@ -2380,7 +2368,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-io;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67aab128
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60b51e53
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 in sbt-chain
@@ -2389,7 +2377,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ff761ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7afe3ca6
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 in sbt-chain
@@ -2398,7 +2386,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.fluentlenium#fluentlenium-core;0.10.9 [test->default(compile)]
 [info] Resolving org.fluentlenium#fluentlenium-core;0.10.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14c977a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c986933
 [debug] sbt-chain: module revision found in cache: org.fluentlenium#fluentlenium-core;0.10.9
 [debug] 	local: revision in cache: org.fluentlenium#fluentlenium-core;0.10.9
 [debug] 	found org.fluentlenium#fluentlenium-core;0.10.9 in sbt-chain
@@ -2407,7 +2395,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.fluentlenium#fluentlenium-core;0.10.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b85efe0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cba677a
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-chrome-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-chrome-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 in sbt-chain
@@ -2416,7 +2404,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-remote-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-remote-driver;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@396ec22a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a191c7b
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-remote-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-remote-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-remote-driver;2.48.2 in sbt-chain
@@ -2425,7 +2413,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-remote-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->cglib#cglib-nodep;2.1_3 [test->default(compile)]
 [info] Resolving cglib#cglib-nodep;2.1_3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7eb6d83
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10863c2
 [debug] sbt-chain: module revision found in cache: cglib#cglib-nodep;2.1_3
 [debug] 	local: revision in cache: cglib#cglib-nodep;2.1_3
 [debug] 	found cglib#cglib-nodep;2.1_3 in sbt-chain
@@ -2434,7 +2422,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->cglib#cglib-nodep;2.1_3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2487f028
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f3bc959
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.3.1
 [debug] 	local: revision in cache: com.google.code.gson#gson;2.3.1
 [debug] 	found com.google.code.gson#gson;2.3.1 in sbt-chain
@@ -2443,7 +2431,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-api;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-api;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40b6cdb5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71134774
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-api;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-api;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-api;2.48.2 in sbt-chain
@@ -2452,7 +2440,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-api;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-exec;1.3 [test->default(compile)]
 [info] Resolving org.apache.commons#commons-exec;1.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8c8f107
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72f062fc
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-exec;1.3
 [debug] 	local: revision in cache: org.apache.commons#commons-exec;1.3
 [debug] 	found org.apache.commons#commons-exec;1.3 in sbt-chain
@@ -2461,7 +2449,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-exec;1.3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna;4.1.0 [test->default(compile)]
 [info] Resolving net.java.dev.jna#jna;4.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b1b866a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13db02d3
 [debug] sbt-chain: module revision found in cache: net.java.dev.jna#jna;4.1.0
 [debug] 	local: revision in cache: net.java.dev.jna#jna;4.1.0
 [debug] 	found net.java.dev.jna#jna;4.1.0 in sbt-chain
@@ -2470,7 +2458,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna;4.1.0 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna-platform;4.1.0 [test->default(compile)]
 [info] Resolving net.java.dev.jna#jna-platform;4.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dd70f14
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21e81391
 [debug] sbt-chain: module revision found in cache: net.java.dev.jna#jna-platform;4.1.0
 [debug] 	local: revision in cache: net.java.dev.jna#jna-platform;4.1.0
 [debug] 	found net.java.dev.jna#jna-platform;4.1.0 in sbt-chain
@@ -2479,7 +2467,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna-platform;4.1.0 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-edge-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-edge-driver;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@666a317b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54da8317
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-edge-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-edge-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-edge-driver;2.48.2 in sbt-chain
@@ -2488,7 +2476,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-edge-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55aafb9c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16f59de6
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 in sbt-chain
@@ -2497,7 +2485,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-support;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-support;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7db95bf2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f2f65b3
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-support;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-support;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-support;2.48.2 in sbt-chain
@@ -2506,7 +2494,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-support;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68533ca8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@217ba08a
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-firefox-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-firefox-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 in sbt-chain
@@ -2515,7 +2503,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-ie-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-ie-driver;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f0c1b9f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@368838db
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-ie-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-ie-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-ie-driver;2.48.2 in sbt-chain
@@ -2524,7 +2512,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-ie-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-safari-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-safari-driver;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4edf1bb6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9b69538
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-safari-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-safari-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-safari-driver;2.48.2 in sbt-chain
@@ -2533,7 +2521,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-safari-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.webbitserver#webbit;0.4.14 [test->default(compile)]
 [info] Resolving org.webbitserver#webbit;0.4.14 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7485db82
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2adb52bc
 [debug] sbt-chain: module revision found in cache: org.webbitserver#webbit;0.4.14
 [debug] 	local: revision in cache: org.webbitserver#webbit;0.4.14
 [debug] 	found org.webbitserver#webbit;0.4.14 in sbt-chain
@@ -2542,7 +2530,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.webbitserver#webbit;0.4.14 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty;3.5.2.Final [test->default(compile)]
 [info] Resolving io.netty#netty;3.5.2.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b641fea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ab6a528
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.5.2.Final
 [debug] 	local: revision in cache: io.netty#netty;3.5.2.Final
 [debug] 	found io.netty#netty;3.5.2.Final in sbt-chain
@@ -2551,7 +2539,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty;3.5.2.Final [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-leg-rc;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-leg-rc;2.48.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4dadb1e0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7099a460
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-leg-rc;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-leg-rc;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-leg-rc;2.48.2 in sbt-chain
@@ -2560,7 +2548,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-leg-rc;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-specs2_2.11;2.5.9 [test->default(compile)]
 [info] Resolving com.typesafe.play#play-specs2_2.11;2.5.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ecf41db
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5fb004ca
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-specs2_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-specs2_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-specs2_2.11;2.5.9 in sbt-chain
@@ -2569,7 +2557,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-specs2_2.11;2.5.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-core_2.11;3.6.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@188f3bdf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58e9f1b7
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-core_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-core_2.11;3.6.6
 [debug] 	found org.specs2#specs2-core_2.11;3.6.6 in sbt-chain
@@ -2578,7 +2566,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-matcher_2.11;3.6.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@572604c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24033542
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-matcher_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-matcher_2.11;3.6.6
 [debug] 	found org.specs2#specs2-matcher_2.11;3.6.6 in sbt-chain
@@ -2587,7 +2575,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-common_2.11;3.6.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31e65eac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2192f9ad
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-common_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-common_2.11;3.6.6
 [debug] 	found org.specs2#specs2-common_2.11;3.6.6 in sbt-chain
@@ -2596,7 +2584,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.4 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-core_2.11;7.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3fee979d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3025af3b
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.1.4
 [debug] 	local: revision in cache: org.scalaz#scalaz-core_2.11;7.1.4
 [debug] 	found org.scalaz#scalaz-core_2.11;7.1.4 in sbt-chain
@@ -2605,7 +2593,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@596b65dc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@868f60a
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.4
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.4 in sbt-chain
@@ -2614,7 +2602,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.4 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-effect_2.11;7.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@348aa53e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a237a73
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-effect_2.11;7.1.4
 [debug] 	local: revision in cache: org.scalaz#scalaz-effect_2.11;7.1.4
 [debug] 	found org.scalaz#scalaz-effect_2.11;7.1.4 in sbt-chain
@@ -2623,7 +2611,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.4 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-concurrent_2.11;7.1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7dd451f6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68753c2b
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-concurrent_2.11;7.1.4
 [debug] 	local: revision in cache: org.scalaz#scalaz-concurrent_2.11;7.1.4
 [debug] 	found org.scalaz#scalaz-concurrent_2.11;7.1.4 in sbt-chain
@@ -2632,7 +2620,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz.stream#scalaz-stream_2.11;0.8 [test->default(compile)]
 [info] Resolving org.scalaz.stream#scalaz-stream_2.11;0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cf60ca9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e5b019f
 [debug] sbt-chain: module revision found in cache: org.scalaz.stream#scalaz-stream_2.11;0.8
 [debug] 	local: revision in cache: org.scalaz.stream#scalaz-stream_2.11;0.8
 [debug] 	found org.scalaz.stream#scalaz-stream_2.11;0.8 in sbt-chain
@@ -2642,7 +2630,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz.stream#scalaz-stream_2.11;0.8 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scodec#scodec-bits_2.11;1.0.9 [test->default(compile)]
 [info] Resolving org.scodec#scodec-bits_2.11;1.0.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20703d75
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a6a3899
 [debug] sbt-chain: module revision found in cache: org.scodec#scodec-bits_2.11;1.0.9
 [debug] 	local: revision in cache: org.scodec#scodec-bits_2.11;1.0.9
 [debug] 	found org.scodec#scodec-bits_2.11;1.0.9 in sbt-chain
@@ -2652,7 +2640,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scodec#scodec-bits_2.11;1.0.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.spire-math#kind-projector_2.11;0.7.1 [test->default(compile)]
 [info] Resolving org.spire-math#kind-projector_2.11;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@560abb61
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2359ba18
 [debug] sbt-chain: module revision found in cache: org.spire-math#kind-projector_2.11;0.7.1
 [debug] 	local: revision in cache: org.spire-math#kind-projector_2.11;0.7.1
 [debug] 	found org.spire-math#kind-projector_2.11;0.7.1 in sbt-chain
@@ -2661,7 +2649,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.spire-math#kind-projector_2.11;0.7.1 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cdb7618
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4dab89b9
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.7
 [debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.7
 [debug] 	found org.scala-lang#scala-compiler;2.11.7 in sbt-chain
@@ -2670,7 +2658,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-junit_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-junit_2.11;3.6.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e73160c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6687b065
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-junit_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-junit_2.11;3.6.6
 [debug] 	found org.specs2#specs2-junit_2.11;3.6.6 in sbt-chain
@@ -2679,7 +2667,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-junit_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-mock_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-mock_2.11;3.6.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f42b9fa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1766f089
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-mock_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-mock_2.11;3.6.6
 [debug] 	found org.specs2#specs2-mock_2.11;3.6.6 in sbt-chain
@@ -2688,7 +2676,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-mock_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->default(compile)]
 [info] Resolving org.mockito#mockito-core;1.9.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1febd390
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46c3873a
 [debug] sbt-chain: module revision found in cache: org.mockito#mockito-core;1.9.5
 [debug] 	local: revision in cache: org.mockito#mockito-core;1.9.5
 [debug] 	found org.mockito#mockito-core;1.9.5 in sbt-chain
@@ -2697,7 +2685,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.objenesis#objenesis;1.0 [test->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ef3b13e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6aa1af73
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.0
 [debug] 	local: revision in cache: org.objenesis#objenesis;1.0
 [debug] 	found org.objenesis#objenesis;1.0 in sbt-chain
@@ -2711,10 +2699,10 @@
 [debug] resolving dependencies for configuration 'compile-internal'
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile-internal]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->compile]
@@ -3017,10 +3005,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [optional]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [provided]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile-internal->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile-internal->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile-internal->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile-internal->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile-internal->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile-internal->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile-internal->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile-internal->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile-internal->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile-internal->compile]
@@ -3325,10 +3313,10 @@
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [runtime-internal]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [runtime]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->compile]
@@ -3629,10 +3617,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->compile]
@@ -3934,10 +3922,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->master]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [optional]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime-internal->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime-internal->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime-internal->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime-internal->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime-internal->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime-internal->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime-internal->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime-internal->compile]
@@ -4243,10 +4231,10 @@
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [test]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [runtime]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->compile]
@@ -4551,10 +4539,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [compile->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [compile->master]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [runtime->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [runtime->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [runtime->compile]
@@ -4859,10 +4847,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [runtime->master]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test->compile]
@@ -5377,10 +5365,10 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.objenesis#objenesis;1.0 [test->master]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [optional]
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [provided]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test-internal->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test-internal->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test-internal->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [test-internal->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test-internal->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test-internal->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test-internal->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test-internal->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test-internal->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test-internal->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [test-internal->compile]
@@ -5899,10 +5887,6 @@
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [sources]
 [debug] resolving dependencies for configuration 'docs'
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [docs]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [docs->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [docs->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [docs->compile]
@@ -6124,6 +6108,16 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-omnidoc_2.11;2.5.9 [docs->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-omnidoc_2.11;2.5.9 [docs->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-omnidoc_2.11;2.5.9 [docs->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.11.7 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.11.7 {docs=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.7
+[debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
+[debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [docs->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-docs_2.11;2.5.9 [docs->default(compile)]
 [info] Resolving com.typesafe.play#play-docs_2.11;2.5.9 ...
 [debug] sbt-chain: Checking cache for: dependency: com.typesafe.play#play-docs_2.11;2.5.9 {docs=[default(compile)]}
@@ -6218,14 +6212,10 @@
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [pom]
 [debug] resolving dependencies for configuration 'scala-tool'
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [scala-tool]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [scala-tool->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [scala-tool->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [scala-tool->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [scala-tool->master]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [scala-tool->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [scala-tool->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [scala-tool->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [scala-tool->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [scala-tool->default(compile)]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [scala-tool->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [scala-tool->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [scala-tool->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->default(compile)]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->compile]
@@ -6234,10 +6224,25 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [scala-tool->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [scala-tool->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [scala-tool->master]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [scala-tool->default(compile)]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [scala-tool->runtime]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [scala-tool->compile]
-[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [scala-tool->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.8 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.11.8 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.11.8 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.8
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.8
+[debug] 	found org.scala-lang#scala-compiler;2.11.8 in sbt-chain
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.8 [scala-tool->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.8 [scala-tool->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.8 [scala-tool->master]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.11.8 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.11.8 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.8
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.8
+[debug] 	found org.scala-lang#scala-reflect;2.11.8 in sbt-chain
+[debug] 	[2.11.8] org.scala-lang#scala-reflect;2.11.8
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [scala-tool->runtime]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [scala-tool->compile]
+[debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [scala-tool->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->jline#jline;2.12.1 [scala-tool->default(compile)]
 [info] Resolving jline#jline;2.12.1 ...
 [debug] sbt-chain: Checking cache for: dependency: jline#jline;2.12.1 {scala-tool=[default(compile)]}
@@ -6249,8 +6254,8 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->jline#jline;2.12.1 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.8!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.8!scala-library.jar
 [debug] 	[NOT REQUIRED] com.typesafe.play#twirl-api_2.11;1.1.1!twirl-api_2.11.jar
 [debug] 	[NOT REQUIRED] com.typesafe.play#twirl-api_2.11;1.1.1!twirl-api_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar(src)
@@ -6258,73 +6263,25 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-server_2.11;2.5.9!play-server_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-server_2.11/2.5.9/srcs/play-server_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-server_2.11/2.5.9/play-server_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-server_2.11/2.5.9/play-server_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-server_2.11/2.5.9/play-server_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-server_2.11/2.5.9/play-server_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-server_2.11/2.5.9/play-server_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-server_2.11;2.5.9!play-server_2.11.jar(src) (636ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-server_2.11;2.5.9!play-server_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play_2.11;2.5.9!play_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play_2.11/2.5.9/srcs/play_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.5.9/play_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.5.9/play_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.5.9/play_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.5.9/play_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.5.9/play_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play_2.11;2.5.9!play_2.11.jar(src) (1027ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play_2.11;2.5.9!play_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#build-link;2.5.9!build-link.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/build-link/2.5.9/srcs/build-link-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#build-link;2.5.9!build-link.jar(src) (569ms)
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-exceptions/2.5.9/srcs/play-exceptions-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.play#build-link;2.5.9!build-link.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-exceptions;2.5.9!play-exceptions.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-exceptions;2.5.9!play-exceptions.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-exceptions;2.5.9!play-exceptions.jar(src) (574ms)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.5.9!play-iteratees_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-iteratees_2.11/2.5.9/srcs/play-iteratees_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.5.9/play-iteratees_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.5.9/play-iteratees_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.5.9/play-iteratees_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.5.9/play-iteratees_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.5.9/play-iteratees_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.11;2.5.9!play-iteratees_2.11.jar(src) (700ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.5.9!play-iteratees_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-json_2.11;2.5.9!play-json_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-json_2.11/2.5.9/srcs/play-json_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.5.9/play-json_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.5.9/play-json_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.5.9/play-json_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.5.9/play-json_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.5.9/play-json_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-json_2.11;2.5.9!play-json_2.11.jar(src) (611ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-json_2.11;2.5.9!play-json_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-functional_2.11;2.5.9!play-functional_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-functional_2.11;2.5.9!play-functional_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-functional_2.11/2.5.9/srcs/play-functional_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.5.9/play-functional_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.5.9/play-functional_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.5.9/play-functional_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.5.9/play-functional_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.5.9/play-functional_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-functional_2.11;2.5.9!play-functional_2.11.jar(src) (540ms)
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-datacommons_2.11/2.5.9/srcs/play-datacommons_2.11-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-datacommons_2.11;2.5.9!play-datacommons_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-datacommons_2.11;2.5.9!play-datacommons_2.11.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.5.9/play-datacommons_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.5.9/play-datacommons_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.5.9/play-datacommons_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.5.9/play-datacommons_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.5.9/play-datacommons_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-datacommons_2.11;2.5.9!play-datacommons_2.11.jar(src) (594ms)
 [debug] 	[NOT REQUIRED] joda-time#joda-time;2.9.4!joda-time.jar(src)
 [debug] 	[NOT REQUIRED] joda-time#joda-time;2.9.4!joda-time.jar
 [debug] 	[NOT REQUIRED] org.joda#joda-convert;1.8.1!joda-convert.jar(src)
@@ -6342,13 +6299,7 @@
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6!jackson-datatype-jsr310.jar
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6!jackson-datatype-jsr310.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-netty-utils;2.5.9!play-netty-utils.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-netty-utils/2.5.9/srcs/play-netty-utils-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.5.9/play-netty-utils-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.5.9/play-netty-utils-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.5.9/play-netty-utils-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.5.9/play-netty-utils-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.5.9/play-netty-utils-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-netty-utils;2.5.9!play-netty-utils.jar(src) (571ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-netty-utils;2.5.9!play-netty-utils.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.21!slf4j-api.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.21!slf4j-api.jar
 [debug] 	[NOT REQUIRED] org.slf4j#jul-to-slf4j;1.7.21!jul-to-slf4j.jar
@@ -6356,13 +6307,7 @@
 [debug] 	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.21!jcl-over-slf4j.jar
 [debug] 	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.21!jcl-over-slf4j.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-streams_2.11;2.5.9!play-streams_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-streams_2.11/2.5.9/srcs/play-streams_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-streams_2.11/2.5.9/play-streams_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-streams_2.11/2.5.9/play-streams_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-streams_2.11/2.5.9/play-streams_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-streams_2.11/2.5.9/play-streams_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-streams_2.11/2.5.9/play-streams_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-streams_2.11;2.5.9!play-streams_2.11.jar(src) (549ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-streams_2.11;2.5.9!play-streams_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar(src)
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.0!reactive-streams.jar
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream_2.11;2.4.10!akka-stream_2.11.jar
@@ -6396,13 +6341,7 @@
 [debug] 	[NOT REQUIRED] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.jar
 [debug] 	[NOT REQUIRED] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-netty-server_2.11;2.5.9!play-netty-server_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-netty-server_2.11/2.5.9/srcs/play-netty-server_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-netty-server_2.11/2.5.9/play-netty-server_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-server_2.11/2.5.9/play-netty-server_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-server_2.11/2.5.9/play-netty-server_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-server_2.11/2.5.9/play-netty-server_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-netty-server_2.11/2.5.9/play-netty-server_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-netty-server_2.11;2.5.9!play-netty-server_2.11.jar(src) (537ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-netty-server_2.11;2.5.9!play-netty-server_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.netty#netty-reactive-streams-http;1.0.8!netty-reactive-streams-http.jar
 [debug] 	[NOT REQUIRED] com.typesafe.netty#netty-reactive-streams-http;1.0.8!netty-reactive-streams-http.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.netty#netty-reactive-streams;1.0.8!netty-reactive-streams.jar(src)
@@ -6417,76 +6356,34 @@
 [debug] 	[NOT REQUIRED] io.netty#netty-transport;4.0.41.Final!netty-transport.jar
 [debug] 	[NOT REQUIRED] io.netty#netty-codec;4.0.41.Final!netty-codec.jar
 [debug] 	[NOT REQUIRED] io.netty#netty-codec;4.0.41.Final!netty-codec.jar(src)
-[debug] 	[NOT REQUIRED] io.netty#netty-codec-http;4.0.41.Final!netty-codec-http.jar
 [debug] 	[NOT REQUIRED] io.netty#netty-codec-http;4.0.41.Final!netty-codec-http.jar(src)
+[debug] 	[NOT REQUIRED] io.netty#netty-codec-http;4.0.41.Final!netty-codec-http.jar
 [debug] 	[NOT REQUIRED] io.netty#netty-transport-native-epoll;4.0.41.Final!netty-transport-native-epoll.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-transport-native-epoll;4.0.41.Final!netty-transport-native-epoll.jar
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-logback_2.11;2.5.9!play-logback_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-logback_2.11/2.5.9/srcs/play-logback_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-logback_2.11/2.5.9/play-logback_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-logback_2.11/2.5.9/play-logback_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-logback_2.11/2.5.9/play-logback_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-logback_2.11/2.5.9/play-logback_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-logback_2.11/2.5.9/play-logback_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-logback_2.11;2.5.9!play-logback_2.11.jar(src) (559ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-logback_2.11;2.5.9!play-logback_2.11.jar(src)
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-classic;1.1.7!logback-classic.jar
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-classic;1.1.7!logback-classic.jar(src)
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.1.7!logback-core.jar
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.1.7!logback-core.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-jdbc_2.11;2.5.9!play-jdbc_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-jdbc_2.11/2.5.9/srcs/play-jdbc_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-jdbc_2.11/2.5.9/play-jdbc_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-jdbc_2.11/2.5.9/play-jdbc_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-jdbc_2.11/2.5.9/play-jdbc_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-jdbc_2.11/2.5.9/play-jdbc_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-jdbc_2.11/2.5.9/play-jdbc_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-jdbc_2.11;2.5.9!play-jdbc_2.11.jar(src) (523ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-jdbc_2.11;2.5.9!play-jdbc_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-jdbc-api_2.11;2.5.9!play-jdbc-api_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-jdbc-api_2.11/2.5.9/srcs/play-jdbc-api_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-jdbc-api_2.11/2.5.9/play-jdbc-api_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-jdbc-api_2.11/2.5.9/play-jdbc-api_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-jdbc-api_2.11/2.5.9/play-jdbc-api_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-jdbc-api_2.11/2.5.9/play-jdbc-api_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-jdbc-api_2.11/2.5.9/play-jdbc-api_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-jdbc-api_2.11;2.5.9!play-jdbc-api_2.11.jar(src) (534ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-jdbc-api_2.11;2.5.9!play-jdbc-api_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.jolbox#bonecp;0.8.0.RELEASE!bonecp.jar
 [debug] 	[NOT REQUIRED] com.jolbox#bonecp;0.8.0.RELEASE!bonecp.jar(src)
-[debug] 		tried /Users/Tom/.ivy2/local/com.zaxxer/HikariCP/2.5.1/jars/HikariCP.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.zaxxer/HikariCP/2.5.1/srcs/HikariCP-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.jar
-[info] downloading https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.jar
-[info] 	[SUCCESSFUL ] com.zaxxer#HikariCP;2.5.1!HikariCP.jar (527ms)
-[debug] 		tried https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1-sources.jar
-[info] downloading https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1-sources.jar
-[info] 	[SUCCESSFUL ] com.zaxxer#HikariCP;2.5.1!HikariCP.jar(src) (757ms)
+[debug] 	[NOT REQUIRED] com.zaxxer#HikariCP;2.5.1!HikariCP.jar
+[debug] 	[NOT REQUIRED] com.zaxxer#HikariCP;2.5.1!HikariCP.jar(src)
 [debug] 	[NOT REQUIRED] com.googlecode.usc#jdbcdslog;1.0.6.2!jdbcdslog.jar
 [debug] 	[NOT REQUIRED] com.googlecode.usc#jdbcdslog;1.0.6.2!jdbcdslog.jar(src)
 [debug] 	[NOT REQUIRED] com.h2database#h2;1.4.192!h2.jar(src)
 [debug] 	[NOT REQUIRED] com.h2database#h2;1.4.192!h2.jar
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-cache_2.11;2.5.9!play-cache_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-cache_2.11/2.5.9/srcs/play-cache_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-cache_2.11/2.5.9/play-cache_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-cache_2.11/2.5.9/play-cache_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-cache_2.11/2.5.9/play-cache_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-cache_2.11/2.5.9/play-cache_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-cache_2.11/2.5.9/play-cache_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-cache_2.11;2.5.9!play-cache_2.11.jar(src) (521ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-cache_2.11;2.5.9!play-cache_2.11.jar(src)
 [debug] 	[NOT REQUIRED] net.sf.ehcache#ehcache-core;2.6.11!ehcache-core.jar(src)
 [debug] 	[NOT REQUIRED] net.sf.ehcache#ehcache-core;2.6.11!ehcache-core.jar
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-ws_2.11;2.5.9!play-ws_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-ws_2.11/2.5.9/srcs/play-ws_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-ws_2.11/2.5.9/play-ws_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-ws_2.11/2.5.9/play-ws_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-ws_2.11/2.5.9/play-ws_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-ws_2.11/2.5.9/play-ws_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-ws_2.11/2.5.9/play-ws_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-ws_2.11;2.5.9!play-ws_2.11.jar(src) (660ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-ws_2.11;2.5.9!play-ws_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.google.guava#guava;19.0!guava.jar(src)
 [debug] 	[NOT REQUIRED] com.google.guava#guava;19.0!guava.jar
 [debug] 	[NOT REQUIRED] org.asynchttpclient#async-http-client;2.0.11!async-http-client.jar(src)
@@ -6517,14 +6414,8 @@
 [debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.5.2!httpclient.jar(src)
 [debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.2!commons-logging.jar
 [debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.2!commons-logging.jar(src)
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-test_2.11/2.5.9/srcs/play-test_2.11-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-test_2.11;2.5.9!play-test_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-test_2.11;2.5.9!play-test_2.11.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-test_2.11/2.5.9/play-test_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-test_2.11/2.5.9/play-test_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-test_2.11/2.5.9/play-test_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-test_2.11/2.5.9/play-test_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-test_2.11/2.5.9/play-test_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-test_2.11;2.5.9!play-test_2.11.jar(src) (576ms)
 [debug] 	[NOT REQUIRED] junit#junit;4.12!junit.jar(src)
 [debug] 	[NOT REQUIRED] junit#junit;4.12!junit.jar
 [debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar(src)
@@ -6600,13 +6491,7 @@
 [debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar
 [debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-leg-rc;2.48.2!selenium-leg-rc.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-specs2_2.11;2.5.9!play-specs2_2.11.jar
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-specs2_2.11/2.5.9/srcs/play-specs2_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-specs2_2.11/2.5.9/play-specs2_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-specs2_2.11/2.5.9/play-specs2_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-specs2_2.11/2.5.9/play-specs2_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-specs2_2.11/2.5.9/play-specs2_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-specs2_2.11/2.5.9/play-specs2_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-specs2_2.11;2.5.9!play-specs2_2.11.jar(src) (542ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-specs2_2.11;2.5.9!play-specs2_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.specs2#specs2-core_2.11;3.6.6!specs2-core_2.11.jar
 [debug] 	[NOT REQUIRED] org.specs2#specs2-core_2.11;3.6.6!specs2-core_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.specs2#specs2-matcher_2.11;3.6.6!specs2-matcher_2.11.jar(src)
@@ -6635,20 +6520,9 @@
 [debug] 	[NOT REQUIRED] org.mockito#mockito-core;1.9.5!mockito-core.jar(src)
 [debug] 	[NOT REQUIRED] org.objenesis#objenesis;1.0!objenesis.jar
 [debug] 	[NOT REQUIRED] org.objenesis#objenesis;1.0!objenesis.jar(src)
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-omnidoc_2.11/2.5.9/srcs/play-omnidoc_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-omnidoc_2.11/2.5.9/play-omnidoc_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-omnidoc_2.11;2.5.9!play-omnidoc_2.11.jar(src) (546ms)
-[debug] 		tried /Users/Tom/.ivy2/local/com.typesafe.play/play-docs_2.11/2.5.9/srcs/play-docs_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-docs_2.11/2.5.9/play-docs_2.11-2.5.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-docs_2.11;2.5.9!play-docs_2.11.jar(src) (683ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-omnidoc_2.11;2.5.9!play-omnidoc_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-docs_2.11;2.5.9!play-docs_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.google.guava#guava;16.0.1!guava.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-doc_2.11;1.2.2!play-doc_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.pegdown#pegdown;1.4.0!pegdown.jar(src)
@@ -6658,8 +6532,10 @@
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;4.1!asm-tree.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.8!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.8!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 5697ms :: artifacts dl 13529ms
+[debug] :: resolution report :: resolve 2763ms :: artifacts dl 133ms
 [debug] 	report for nasty#nasty$sources_2.11;1.0 compile produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-compile.xml
 [debug] 	report for nasty#nasty$sources_2.11;1.0 runtime produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-runtime.xml
 [debug] 	report for nasty#nasty$sources_2.11;1.0 test produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-test.xml
@@ -6673,4 +6549,4 @@
 [debug] 	report for nasty#nasty$sources_2.11;1.0 docs produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-docs.xml
 [debug] 	report for nasty#nasty$sources_2.11;1.0 pom produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-pom.xml
 [debug] 	report for nasty#nasty$sources_2.11;1.0 scala-tool produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-scala-tool.xml
-[debug] 	resolve done (5697ms resolve - 13529ms download)
+[debug] 	resolve done (2763ms resolve - 133ms download)

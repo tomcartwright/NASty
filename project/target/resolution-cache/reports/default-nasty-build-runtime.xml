@@ -9,7 +9,7 @@
 		extra-sbtVersion="0.13"
 		conf="runtime"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20161105162855"/>
+		date="20161105194248"/>
 	<dependencies>
 		<module organisation="com.google.guava" name="guava">
 			<revision name="14.0.1" status="release" pubdate="20130314185719" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="34">
@@ -54,12 +54,12 @@
 			</revision>
 		</module>
 		<module organisation="com.typesafe.play" name="sbt-plugin">
-			<revision name="2.5.9" status="release" pubdate="20161008154618" resolver="sbt-plugin-releases" artresolver="sbt-plugin-releases" homepage="https://playframework.com" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="true" searched="true" default="false" conf="compile, default(compile)" position="0">
+			<revision name="2.5.9" status="release" pubdate="20161008154618" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="successful" details="" size="3343" time="936" location="/Users/Tom/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/ivy-2.5.9.xml" searched="true" original-local-location="/Users/Tom/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/ivy-2.5.9.xml.original" origin-is-local="false" origin-location="http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.9/ivys/ivy.xml"/>
+				<metadata-artifact status="no" details="" size="3343" time="0" location="/Users/Tom/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/ivy-2.5.9.xml" searched="false" origin-is-local="false" origin-location="http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.9/ivys/ivy.xml"/>
 				<caller organisation="default" name="nasty-build" conf="compile, runtime" rev="2.5.9" rev-constraint-default="2.5.9" rev-constraint-dynamic="2.5.9" callerrev="0.1-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
 				<artifacts>
-					<artifact name="sbt-plugin" type="jar" ext="jar" status="successful" details="" size="379080" time="4138" location="/Users/Tom/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.5.9.jar">
+					<artifact name="sbt-plugin" type="jar" ext="jar" status="no" details="" size="379080" time="0" location="/Users/Tom/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.5.9.jar">
 						<origin-location is-local="false" location="http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.10/sbt_0.13/2.5.9/jars/sbt-plugin.jar"/>
 					</artifact>
 				</artifacts>
@@ -1006,12 +1006,12 @@
 			</revision>
 		</module>
 		<module organisation="com.typesafe.play" name="sbt-run-support_2.10">
-			<revision name="2.5.9" status="release" pubdate="20161008173549" resolver="jcenter" artresolver="jcenter" homepage="https://playframework.com" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="6">
+			<revision name="2.5.9" status="release" pubdate="20161008173549" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="6">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="successful" details="" size="2915" time="435" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/ivy-2.5.9.xml" searched="true" original-local-location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/ivy-2.5.9.xml.original" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/sbt-run-support_2.10/2.5.9/sbt-run-support_2.10-2.5.9.pom"/>
+				<metadata-artifact status="no" details="" size="3427" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/ivy-2.5.9.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/sbt-run-support_2.10/2.5.9/sbt-run-support_2.10-2.5.9.pom"/>
 				<caller organisation="com.typesafe.play" name="sbt-plugin" conf="compile" rev="2.5.9" rev-constraint-default="2.5.9" rev-constraint-dynamic="2.5.9" callerrev="2.5.9"/>
 				<artifacts>
-					<artifact name="sbt-run-support_2.10" type="jar" ext="jar" status="successful" details="" size="155005" time="752" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/jars/sbt-run-support_2.10-2.5.9.jar">
+					<artifact name="sbt-run-support_2.10" type="jar" ext="jar" status="no" details="" size="155005" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-run-support_2.10/jars/sbt-run-support_2.10-2.5.9.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/com/typesafe/play/sbt-run-support_2.10/2.5.9/sbt-run-support_2.10-2.5.9.jar"/>
 					</artifact>
 				</artifacts>
@@ -1043,36 +1043,36 @@
 			</revision>
 		</module>
 		<module organisation="com.typesafe.play" name="build-link">
-			<revision name="2.5.9" status="release" pubdate="20161008173541" resolver="jcenter" artresolver="jcenter" homepage="https://playframework.com" downloaded="true" searched="true" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="7">
+			<revision name="2.5.9" status="release" pubdate="20161008173541" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="7">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="successful" details="" size="1497" time="414" location="/Users/Tom/.ivy2/cache/com.typesafe.play/build-link/ivy-2.5.9.xml" searched="true" original-local-location="/Users/Tom/.ivy2/cache/com.typesafe.play/build-link/ivy-2.5.9.xml.original" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9.pom"/>
+				<metadata-artifact status="no" details="" size="2515" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/build-link/ivy-2.5.9.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9.pom"/>
 				<caller organisation="com.typesafe.play" name="sbt-run-support_2.10" conf="default, compile, runtime, master" rev="2.5.9" rev-constraint-default="2.5.9" rev-constraint-dynamic="2.5.9" callerrev="2.5.9"/>
 				<artifacts>
-					<artifact name="build-link" type="jar" ext="jar" status="successful" details="" size="3360" time="463" location="/Users/Tom/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.5.9.jar">
+					<artifact name="build-link" type="jar" ext="jar" status="no" details="" size="3360" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.5.9.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/com/typesafe/play/build-link/2.5.9/build-link-2.5.9.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="com.typesafe.play" name="play-exceptions">
-			<revision name="2.5.9" status="release" pubdate="20161008173531" resolver="jcenter" artresolver="jcenter" homepage="https://playframework.com" downloaded="true" searched="true" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="8">
+			<revision name="2.5.9" status="release" pubdate="20161008173531" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="8">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="successful" details="" size="1291" time="444" location="/Users/Tom/.ivy2/cache/com.typesafe.play/play-exceptions/ivy-2.5.9.xml" searched="true" original-local-location="/Users/Tom/.ivy2/cache/com.typesafe.play/play-exceptions/ivy-2.5.9.xml.original" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9.pom"/>
+				<metadata-artifact status="no" details="" size="2352" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/play-exceptions/ivy-2.5.9.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9.pom"/>
 				<caller organisation="com.typesafe.play" name="build-link" conf="compile, runtime" rev="2.5.9" rev-constraint-default="2.5.9" rev-constraint-dynamic="2.5.9" callerrev="2.5.9"/>
 				<artifacts>
-					<artifact name="play-exceptions" type="jar" ext="jar" status="successful" details="" size="4605" time="448" location="/Users/Tom/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.5.9.jar">
+					<artifact name="play-exceptions" type="jar" ext="jar" status="no" details="" size="4605" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.5.9.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.5.9/play-exceptions-2.5.9.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="com.typesafe.play" name="sbt-routes-compiler_2.10">
-			<revision name="2.5.9" status="release" pubdate="20161008173559" resolver="jcenter" artresolver="jcenter" homepage="https://playframework.com" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+			<revision name="2.5.9" status="release" pubdate="20161008173559" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="successful" details="" size="2927" time="417" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-routes-compiler_2.10/ivy-2.5.9.xml" searched="true" original-local-location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-routes-compiler_2.10/ivy-2.5.9.xml.original" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/sbt-routes-compiler_2.10/2.5.9/sbt-routes-compiler_2.10-2.5.9.pom"/>
+				<metadata-artifact status="no" details="" size="3416" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-routes-compiler_2.10/ivy-2.5.9.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/typesafe/play/sbt-routes-compiler_2.10/2.5.9/sbt-routes-compiler_2.10-2.5.9.pom"/>
 				<caller organisation="com.typesafe.play" name="sbt-plugin" conf="compile" rev="2.5.9" rev-constraint-default="2.5.9" rev-constraint-dynamic="2.5.9" callerrev="2.5.9"/>
 				<artifacts>
-					<artifact name="sbt-routes-compiler_2.10" type="jar" ext="jar" status="successful" details="" size="613188" time="1317" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-routes-compiler_2.10/jars/sbt-routes-compiler_2.10-2.5.9.jar">
+					<artifact name="sbt-routes-compiler_2.10" type="jar" ext="jar" status="no" details="" size="613188" time="0" location="/Users/Tom/.ivy2/cache/com.typesafe.play/sbt-routes-compiler_2.10/jars/sbt-routes-compiler_2.10-2.5.9.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/com/typesafe/play/sbt-routes-compiler_2.10/2.5.9/sbt-routes-compiler_2.10-2.5.9.jar"/>
 					</artifact>
 				</artifacts>
