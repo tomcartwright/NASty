@@ -1,3 +1,4 @@
+/*
 package models
 
 import sys.process._
@@ -62,7 +63,7 @@ class Drive(val logLevel: String = "debug") {
       List[String]: list of items in diskPath as if it was from the "ls" command
      */
     val ll_list: List[String] = this.ll(args)
-    val ls_list: List[String] = ll_list.map(str => str.split("\w").slice(8, str.split("\w").length).mkString(" "))
+    val ls_list: List[String] = ll_list.map(str => str.split(" ").slice(8, str.split(" ").length).mkString(" "))
     ls_list
   }
   def cd(dir: String): Int = {
@@ -113,3 +114,4 @@ class Drive(val logLevel: String = "debug") {
     if (cat_results.contains("Is a directory")) s"rm -rf ${fpath}" ! else s"rm -f ${fpath}" !
   }
 }
+*/
