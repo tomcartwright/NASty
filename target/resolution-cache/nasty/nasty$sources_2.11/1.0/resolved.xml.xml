@@ -4,7 +4,11 @@
 		module="nasty$sources_2.11"
 		revision="1.0"
 		status="integration"
+<<<<<<< Updated upstream
 		publication="20161106043313"
+=======
+		publication="20161106043553"
+>>>>>>> Stashed changes
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

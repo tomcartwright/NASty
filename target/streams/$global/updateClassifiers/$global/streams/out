@@ -6,7 +6,11 @@
 [debug] == resolving dependencies for nasty#nasty$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45ad4a0a
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f9dd1e4
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
@@ -16,7 +20,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [info] Resolving com.typesafe.play#twirl-api_2.11;1.1.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cac1761
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@73017cfe
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#twirl-api_2.11;1.1.1
 [debug] 	local: revision in cache: com.typesafe.play#twirl-api_2.11;1.1.1
 [debug] 	found com.typesafe.play#twirl-api_2.11;1.1.1 in sbt-chain
@@ -25,7 +33,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b17ce8d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15917484
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.4
 [debug] 	local: revision in cache: org.apache.commons#commons-lang3;3.4
 [debug] 	found org.apache.commons#commons-lang3;3.4 in sbt-chain
@@ -34,7 +46,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35821542
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e6f12f6
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain
@@ -43,7 +59,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-server_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-server_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b75f6d1
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7313b9fb
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-server_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-server_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-server_2.11;2.5.9 in sbt-chain
@@ -52,7 +72,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-server_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b4dcbc0
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a9577bc
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play_2.11;2.5.9
 [debug] 	found com.typesafe.play#play_2.11;2.5.9 in sbt-chain
@@ -61,7 +85,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#build-link;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#build-link;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b58e97a
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4266470a
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#build-link;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#build-link;2.5.9
 [debug] 	found com.typesafe.play#build-link;2.5.9 in sbt-chain
@@ -70,7 +98,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#build-link;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-exceptions;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d72ef15
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@586afcb3
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-exceptions;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-exceptions;2.5.9
 [debug] 	found com.typesafe.play#play-exceptions;2.5.9 in sbt-chain
@@ -79,7 +111,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53b8fdd4
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44a9d7e8
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-iteratees_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.5.9 in sbt-chain
@@ -88,7 +124,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6cc55b75
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40628859
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	local: revision in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
@@ -97,7 +137,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2508edf8
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1937683
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	local: revision in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
@@ -106,7 +150,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a860e0
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46415a9f
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-json_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-json_2.11;2.5.9 in sbt-chain
@@ -115,7 +163,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5261bc2c
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33da7bd5
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-functional_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-functional_2.11;2.5.9 in sbt-chain
@@ -124,7 +176,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77956baf
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@128d6930
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-datacommons_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.5.9 in sbt-chain
@@ -133,7 +189,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->joda-time#joda-time;2.9.4 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.9.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@569ebd70
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@704e757f
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.9.4
 [debug] 	local: revision in cache: joda-time#joda-time;2.9.4
 [debug] 	found joda-time#joda-time;2.9.4 in sbt-chain
@@ -142,7 +202,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->joda-time#joda-time;2.9.4 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.joda#joda-convert;1.8.1 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.8.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60e2898e
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b01c55c
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.8.1
 [debug] 	local: revision in cache: org.joda#joda-convert;1.8.1
 [debug] 	found org.joda#joda-convert;1.8.1 in sbt-chain
@@ -151,7 +215,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.joda#joda-convert;1.8.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.7 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@779998bd
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b782c41
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.7
 [debug] 	found org.scala-lang#scala-reflect;2.11.7 in sbt-chain
@@ -161,7 +229,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.7.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13e7c49e
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42678556
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-core;2.7.6
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.7.6 in sbt-chain
@@ -170,7 +242,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.7.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55ec8a19
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f2e048b
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-annotations;2.7.6
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.7.6 in sbt-chain
@@ -179,7 +255,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.7.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c6046ae
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30011c99
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.core#jackson-databind;2.7.6
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.7.6 in sbt-chain
@@ -188,7 +268,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@591acf12
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@659e7aa9
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 in sbt-chain
@@ -197,7 +281,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f5283e8
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d0c4fd2
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6
 [debug] 	local: revision in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 in sbt-chain
@@ -206,7 +294,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.7.6 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-utils;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4467bc1e
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c380dec
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-utils;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-netty-utils;2.5.9
 [debug] 	found com.typesafe.play#play-netty-utils;2.5.9 in sbt-chain
@@ -215,7 +307,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.21 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.21 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@633c48e7
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1eed13ed
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.21
 [debug] 	local: revision in cache: org.slf4j#slf4j-api;1.7.21
 [debug] 	found org.slf4j#slf4j-api;1.7.21 in sbt-chain
@@ -224,7 +320,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.21 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.21 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.21 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65616fb3
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a94342b
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.21
 [debug] 	local: revision in cache: org.slf4j#jul-to-slf4j;1.7.21
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.21 in sbt-chain
@@ -233,7 +333,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.21 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.21 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.21 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@efa0f4
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@446bd2e8
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.21
 [debug] 	local: revision in cache: org.slf4j#jcl-over-slf4j;1.7.21
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.21 in sbt-chain
@@ -242,7 +346,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.21 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-streams_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50c53fdf
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50ef18c1
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-streams_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-streams_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-streams_2.11;2.5.9 in sbt-chain
@@ -251,7 +359,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->default(compile)]
 [info] Resolving org.reactivestreams#reactive-streams;1.0.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37a2a488
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4afd0101
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.reactivestreams#reactive-streams;1.0.0
 [debug] 	local: revision in cache: org.reactivestreams#reactive-streams;1.0.0
 [debug] 	found org.reactivestreams#reactive-streams;1.0.0 in sbt-chain
@@ -260,7 +372,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.reactivestreams#reactive-streams;1.0.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.10 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-stream_2.11;2.4.10 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78847c79
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42514d8d
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-stream_2.11;2.4.10
 [debug] 	local: revision in cache: com.typesafe.akka#akka-stream_2.11;2.4.10
 [debug] 	found com.typesafe.akka#akka-stream_2.11;2.4.10 in sbt-chain
@@ -269,7 +385,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-stream_2.11;2.4.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.10 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.4.10 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36fe20e8
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5326a610
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.4.10
 [debug] 	local: revision in cache: com.typesafe.akka#akka-actor_2.11;2.4.10
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.4.10 in sbt-chain
@@ -278,7 +398,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.4.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62d4eb81
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53ff69c7
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-java8-compat_2.11;0.7.0
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-java8-compat_2.11;0.7.0
 [debug] 	found org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 in sbt-chain
@@ -287,7 +411,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-java8-compat_2.11;0.7.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-akka_2.11;0.2.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44c06f96
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bb909af
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-akka_2.11;0.2.1
 [debug] 	local: revision in cache: com.typesafe#ssl-config-akka_2.11;0.2.1
 [debug] 	found com.typesafe#ssl-config-akka_2.11;0.2.1 in sbt-chain
@@ -296,7 +424,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-akka_2.11;0.2.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#ssl-config-core_2.11;0.2.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49ae4ccd
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74bb0db2
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe#ssl-config-core_2.11;0.2.1
 [debug] 	local: revision in cache: com.typesafe#ssl-config-core_2.11;0.2.1
 [debug] 	found com.typesafe#ssl-config-core_2.11;0.2.1 in sbt-chain
@@ -305,7 +437,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe#ssl-config-core_2.11;0.2.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70f45d8f
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29620f28
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
@@ -314,7 +450,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.4.10 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.4.10 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f97f595
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53da14dc
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.4.10
 [debug] 	local: revision in cache: com.typesafe.akka#akka-slf4j_2.11;2.4.10
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.4.10 in sbt-chain
@@ -323,7 +463,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.4.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.10 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a0b194a
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7103831e
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.10
 [debug] 	local: revision in cache: commons-codec#commons-codec;1.10
 [debug] 	found commons-codec#commons-codec;1.10 in sbt-chain
@@ -332,7 +476,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->default(compile)]
 [info] Resolving xerces#xercesImpl;2.11.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d49a804
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bca04fa
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: xerces#xercesImpl;2.11.0
 [debug] 	local: revision in cache: xerces#xercesImpl;2.11.0
 [debug] 	found xerces#xercesImpl;2.11.0 in sbt-chain
@@ -341,7 +489,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.4.01 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ea51dfe
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c7f9239
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.4.01
 [debug] 	local: revision in cache: xml-apis#xml-apis;1.4.01
 [debug] 	found xml-apis#xml-apis;1.4.01 in sbt-chain
@@ -350,7 +502,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
 [info] Resolving javax.transaction#jta;1.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cf95fc7
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40005ca4
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
 [debug] 	local: revision in cache: javax.transaction#jta;1.1
 [debug] 	found javax.transaction#jta;1.1 in sbt-chain
@@ -359,7 +515,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;4.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b32991d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fcb47d7
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;4.0
 [debug] 	local: revision in cache: com.google.inject#guice;4.0
 [debug] 	found com.google.inject#guice;4.0 in sbt-chain
@@ -368,7 +528,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22dc84e4
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5fba474f
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	local: revision in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
@@ -377,7 +541,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6849548d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ee62483
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	local: revision in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
@@ -386,8 +554,13 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject.extensions#guice-assistedinject;4.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1746fc8e
 [debug] 		tried /Users/Tom/.ivy2/local/com.google.inject.extensions/guice-assistedinject/4.0/ivys/ivy.xml
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a9c4a12
+[debug] 		tried /Users/seanavila/.ivy2/local/com.google.inject.extensions/guice-assistedinject/4.0/ivys/ivy.xml
+>>>>>>> Stashed changes
 [debug] 	local: no ivy file found for com.google.inject.extensions#guice-assistedinject;4.0
 [debug] 		tried https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
 [debug] 	jcenter: found md file for com.google.inject.extensions#guice-assistedinject;4.0
@@ -396,7 +569,11 @@
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
 [debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom.sha1
 [debug] sha1 OK for https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
+<<<<<<< Updated upstream
 [debug] 	[SUCCESSFUL ] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.pom(pom.original) (510ms)
+=======
+[debug] 	[SUCCESSFUL ] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.pom(pom.original) (458ms)
+>>>>>>> Stashed changes
 [info] Resolving com.google.inject.extensions#extensions-parent;4.0 ...
 [debug] sbt-chain: Checking cache for: dependency: com.google.inject.extensions#extensions-parent;4.0 {}
 [debug] sbt-chain: module revision found in cache: com.google.inject.extensions#extensions-parent;4.0
@@ -407,7 +584,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-server_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-server_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17fd9f7e
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13ef0c99
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-server_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-netty-server_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-netty-server_2.11;2.5.9 in sbt-chain
@@ -416,7 +597,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-netty-server_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams-http;1.0.8 [compile->default(compile)]
 [info] Resolving com.typesafe.netty#netty-reactive-streams-http;1.0.8 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65b5c4fc
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fa4254a
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.netty#netty-reactive-streams-http;1.0.8
 [debug] 	local: revision in cache: com.typesafe.netty#netty-reactive-streams-http;1.0.8
 [debug] 	found com.typesafe.netty#netty-reactive-streams-http;1.0.8 in sbt-chain
@@ -425,7 +610,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams-http;1.0.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams;1.0.8 [compile->default(compile)]
 [info] Resolving com.typesafe.netty#netty-reactive-streams;1.0.8 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@75d72469
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47783dc0
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.netty#netty-reactive-streams;1.0.8
 [debug] 	local: revision in cache: com.typesafe.netty#netty-reactive-streams;1.0.8
 [debug] 	found com.typesafe.netty#netty-reactive-streams;1.0.8 in sbt-chain
@@ -434,7 +623,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.netty#netty-reactive-streams;1.0.8 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-handler;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-handler;4.0.41.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f5d9773
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e14398d
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty-handler;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-handler;4.0.41.Final
 [debug] 	found io.netty#netty-handler;4.0.41.Final in sbt-chain
@@ -443,7 +636,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-handler;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-buffer;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-buffer;4.0.41.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28d45045
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62dd8771
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty-buffer;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-buffer;4.0.41.Final
 [debug] 	found io.netty#netty-buffer;4.0.41.Final in sbt-chain
@@ -452,7 +649,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-buffer;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-common;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-common;4.0.41.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2928ee81
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@181bf06
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty-common;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-common;4.0.41.Final
 [debug] 	found io.netty#netty-common;4.0.41.Final in sbt-chain
@@ -461,7 +662,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-common;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-transport;4.0.41.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c90e164
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34034c93
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty-transport;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-transport;4.0.41.Final
 [debug] 	found io.netty#netty-transport;4.0.41.Final in sbt-chain
@@ -470,7 +675,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-codec;4.0.41.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44aa21cb
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5315bef0
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty-codec;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-codec;4.0.41.Final
 [debug] 	found io.netty#netty-codec;4.0.41.Final in sbt-chain
@@ -479,7 +688,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec-http;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-codec-http;4.0.41.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ecb0a4f
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@587d5399
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty-codec-http;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-codec-http;4.0.41.Final
 [debug] 	found io.netty#netty-codec-http;4.0.41.Final in sbt-chain
@@ -488,7 +701,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-codec-http;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport-native-epoll;4.0.41.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-transport-native-epoll;4.0.41.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f46aeb6
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ff1384f
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty-transport-native-epoll;4.0.41.Final
 [debug] 	local: revision in cache: io.netty#netty-transport-native-epoll;4.0.41.Final
 [debug] 	found io.netty#netty-transport-native-epoll;4.0.41.Final in sbt-chain
@@ -497,7 +714,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty-transport-native-epoll;4.0.41.Final [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-logback_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-logback_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@87d329
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b73a212
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-logback_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-logback_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-logback_2.11;2.5.9 in sbt-chain
@@ -506,7 +727,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-logback_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.1.7 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35575e7c
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ba39937
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.1.7
 [debug] 	local: revision in cache: ch.qos.logback#logback-classic;1.1.7
 [debug] 	found ch.qos.logback#logback-classic;1.1.7 in sbt-chain
@@ -515,7 +740,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.1.7 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4248c91f
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@350f9190
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.1.7
 [debug] 	local: revision in cache: ch.qos.logback#logback-core;1.1.7
 [debug] 	found ch.qos.logback#logback-core;1.1.7 in sbt-chain
@@ -524,7 +753,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-jdbc_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45587fd8
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42f50bdf
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-jdbc_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-jdbc_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-jdbc_2.11;2.5.9 in sbt-chain
@@ -533,7 +766,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc-api_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-jdbc-api_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4392595a
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a512bc
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-jdbc-api_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-jdbc-api_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-jdbc-api_2.11;2.5.9 in sbt-chain
@@ -542,7 +779,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-jdbc-api_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.jolbox#bonecp;0.8.0.RELEASE [compile->default(compile)]
 [info] Resolving com.jolbox#bonecp;0.8.0.RELEASE ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@581f1e87
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c57bb13
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.jolbox#bonecp;0.8.0.RELEASE
 [debug] 	local: revision in cache: com.jolbox#bonecp;0.8.0.RELEASE
 [debug] 	found com.jolbox#bonecp;0.8.0.RELEASE in sbt-chain
@@ -551,7 +792,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.jolbox#bonecp;0.8.0.RELEASE [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.zaxxer#HikariCP;2.5.1 [compile->default(compile)]
 [info] Resolving com.zaxxer#HikariCP;2.5.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6defbe83
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bd98cd8
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.zaxxer#HikariCP;2.5.1
 [debug] 	local: revision in cache: com.zaxxer#HikariCP;2.5.1
 [debug] 	found com.zaxxer#HikariCP;2.5.1 in sbt-chain
@@ -560,7 +805,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.zaxxer#HikariCP;2.5.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.googlecode.usc#jdbcdslog;1.0.6.2 [compile->default(compile)]
 [info] Resolving com.googlecode.usc#jdbcdslog;1.0.6.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@596f04aa
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48e19778
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.googlecode.usc#jdbcdslog;1.0.6.2
 [debug] 	local: revision in cache: com.googlecode.usc#jdbcdslog;1.0.6.2
 [debug] 	found com.googlecode.usc#jdbcdslog;1.0.6.2 in sbt-chain
@@ -569,7 +818,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.googlecode.usc#jdbcdslog;1.0.6.2 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.h2database#h2;1.4.192 [compile->default(compile)]
 [info] Resolving com.h2database#h2;1.4.192 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c6b3a1
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60ce896c
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.h2database#h2;1.4.192
 [debug] 	local: revision in cache: com.h2database#h2;1.4.192
 [debug] 	found com.h2database#h2;1.4.192 in sbt-chain
@@ -578,7 +831,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.h2database#h2;1.4.192 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-cache_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-cache_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37c1a893
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@682f3eb0
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-cache_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-cache_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-cache_2.11;2.5.9 in sbt-chain
@@ -587,7 +844,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-cache_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sf.ehcache#ehcache-core;2.6.11 [compile->default(compile)]
 [info] Resolving net.sf.ehcache#ehcache-core;2.6.11 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10234fd1
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cb9312b
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: net.sf.ehcache#ehcache-core;2.6.11
 [debug] 	local: revision in cache: net.sf.ehcache#ehcache-core;2.6.11
 [debug] 	found net.sf.ehcache#ehcache-core;2.6.11 in sbt-chain
@@ -596,7 +857,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sf.ehcache#ehcache-core;2.6.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-ws_2.11;2.5.9 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-ws_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d8018b4
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b42f379
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-ws_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-ws_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-ws_2.11;2.5.9 in sbt-chain
@@ -605,7 +870,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-ws_2.11;2.5.9 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.guava#guava;19.0 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;19.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57f02a77
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5672b748
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;19.0
 [debug] 	local: revision in cache: com.google.guava#guava;19.0
 [debug] 	found com.google.guava#guava;19.0 in sbt-chain
@@ -614,7 +883,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.guava#guava;19.0 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#async-http-client;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#async-http-client;2.0.11 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a42126c
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70081640
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#async-http-client;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#async-http-client;2.0.11
 [debug] 	found org.asynchttpclient#async-http-client;2.0.11 in sbt-chain
@@ -623,7 +896,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#async-http-client;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver-dns;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#netty-resolver-dns;2.0.11 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fc2e665
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ecc715c
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#netty-resolver-dns;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#netty-resolver-dns;2.0.11
 [debug] 	found org.asynchttpclient#netty-resolver-dns;2.0.11 in sbt-chain
@@ -632,7 +909,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver-dns;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#netty-resolver;2.0.11 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30f9d1a6
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32e347f2
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#netty-resolver;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#netty-resolver;2.0.11
 [debug] 	found org.asynchttpclient#netty-resolver;2.0.11 in sbt-chain
@@ -641,7 +922,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-resolver;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-codec-dns;2.0.11 [compile->default(compile)]
 [info] Resolving org.asynchttpclient#netty-codec-dns;2.0.11 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9903467
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bdd2fe3
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.asynchttpclient#netty-codec-dns;2.0.11
 [debug] 	local: revision in cache: org.asynchttpclient#netty-codec-dns;2.0.11
 [debug] 	found org.asynchttpclient#netty-codec-dns;2.0.11 in sbt-chain
@@ -650,7 +935,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.asynchttpclient#netty-codec-dns;2.0.11 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.javassist#javassist;3.20.0-GA [compile->default(compile)]
 [info] Resolving org.javassist#javassist;3.20.0-GA ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74316f52
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15d554b7
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.javassist#javassist;3.20.0-GA
 [debug] 	local: revision in cache: org.javassist#javassist;3.20.0-GA
 [debug] 	found org.javassist#javassist;3.20.0-GA in sbt-chain
@@ -659,7 +948,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.javassist#javassist;3.20.0-GA [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-core;1.2.1.2 [compile->default(compile)]
 [info] Resolving oauth.signpost#signpost-core;1.2.1.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6eed4987
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a3a38d2
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: oauth.signpost#signpost-core;1.2.1.2
 [debug] 	local: revision in cache: oauth.signpost#signpost-core;1.2.1.2
 [debug] 	found oauth.signpost#signpost-core;1.2.1.2 in sbt-chain
@@ -668,7 +961,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-core;1.2.1.2 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-commonshttp4;1.2.1.2 [compile->default(compile)]
 [info] Resolving oauth.signpost#signpost-commonshttp4;1.2.1.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4282109
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c2b1df4
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: oauth.signpost#signpost-commonshttp4;1.2.1.2
 [debug] 	local: revision in cache: oauth.signpost#signpost-commonshttp4;1.2.1.2
 [debug] 	found oauth.signpost#signpost-commonshttp4;1.2.1.2 in sbt-chain
@@ -677,7 +974,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-commonshttp4;1.2.1.2 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.0.1 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.0.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e9f7a8d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b216e91
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.0.1
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpcore;4.0.1
 [debug] 	found org.apache.httpcomponents#httpcore;4.0.1 in sbt-chain
@@ -686,7 +987,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.0.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.0.1 [compile->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.0.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c00b5f6
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70a77d12
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.0.1
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpclient;4.0.1
 [debug] 	found org.apache.httpcomponents#httpclient;4.0.1 in sbt-chain
@@ -695,7 +1000,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.0.1 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54fccb31
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6785163f
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	local: revision in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
@@ -2191,7 +2500,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->oauth.signpost#signpost-commonshttp4;1.2.1.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-test_2.11;2.5.9 [test->default(compile)]
 [info] Resolving com.typesafe.play#play-test_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@561a6b1c
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68d5fb91
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-test_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-test_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-test_2.11;2.5.9 in sbt-chain
@@ -2200,7 +2513,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-test_2.11;2.5.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->junit#junit;4.12 [test->default(compile)]
 [info] Resolving junit#junit;4.12 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a75013f
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e4b3fc0
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: junit#junit;4.12
 [debug] 	local: revision in cache: junit#junit;4.12
 [debug] 	found junit#junit;4.12 in sbt-chain
@@ -2209,7 +2526,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->junit#junit;4.12 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.3 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d8f5774
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@671e1e05
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	local: revision in cache: org.hamcrest#hamcrest-core;1.3
 [debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
@@ -2218,7 +2539,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.hamcrest#hamcrest-core;1.3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.novocode#junit-interface;0.11 [test->default(compile)]
 [info] Resolving com.novocode#junit-interface;0.11 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3054163d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@648d0217
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.novocode#junit-interface;0.11
 [debug] 	local: revision in cache: com.novocode#junit-interface;0.11
 [debug] 	found com.novocode#junit-interface;0.11 in sbt-chain
@@ -2227,7 +2552,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.novocode#junit-interface;0.11 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
 [info] Resolving org.scala-sbt#test-interface;1.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b79df98
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b7bf32d
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
 [debug] 	local: revision in cache: org.scala-sbt#test-interface;1.0
 [debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
@@ -2236,7 +2565,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-sbt#test-interface;1.0 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.findbugs#jsr305;3.0.1 [test->default(compile)]
 [info] Resolving com.google.code.findbugs#jsr305;3.0.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25048ce7
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26c86a8
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.google.code.findbugs#jsr305;3.0.1
 [debug] 	local: revision in cache: com.google.code.findbugs#jsr305;3.0.1
 [debug] 	found com.google.code.findbugs#jsr305;3.0.1 in sbt-chain
@@ -2245,7 +2578,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.findbugs#jsr305;3.0.1 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit;2.20 [test->default(compile)]
 [info] Resolving net.sourceforge.htmlunit#htmlunit;2.20 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ed33366
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f61cebc
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit;2.20
 [debug] 	local: revision in cache: net.sourceforge.htmlunit#htmlunit;2.20
 [debug] 	found net.sourceforge.htmlunit#htmlunit;2.20 in sbt-chain
@@ -2254,7 +2591,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit;2.20 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#xalan;2.7.2 [test->default(compile)]
 [info] Resolving xalan#xalan;2.7.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@542371ed
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53da8a63
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: xalan#xalan;2.7.2
 [debug] 	local: revision in cache: xalan#xalan;2.7.2
 [debug] 	found xalan#xalan;2.7.2 in sbt-chain
@@ -2263,7 +2604,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#xalan;2.7.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#serializer;2.7.2 [test->default(compile)]
 [info] Resolving xalan#serializer;2.7.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b62a03
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13304c5b
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: xalan#serializer;2.7.2
 [debug] 	local: revision in cache: xalan#serializer;2.7.2
 [debug] 	found xalan#serializer;2.7.2 in sbt-chain
@@ -2272,7 +2617,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->xalan#serializer;2.7.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpclient;4.5.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48d3d809
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35038597
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.5.2
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpclient;4.5.2
 [debug] 	found org.apache.httpcomponents#httpclient;4.5.2 in sbt-chain
@@ -2281,7 +2630,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpclient;4.5.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpcore;4.4.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e1aaa1b
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2dc6ad38
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.4.4
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpcore;4.4.4
 [debug] 	found org.apache.httpcomponents#httpcore;4.4.4 in sbt-chain
@@ -2290,7 +2643,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpcore;4.4.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [test->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fbd7cda
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6977a6e8
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.2
 [debug] 	local: revision in cache: commons-logging#commons-logging;1.2
 [debug] 	found commons-logging#commons-logging;1.2 in sbt-chain
@@ -2299,7 +2656,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-logging#commons-logging;1.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpmime;4.5.2 [test->default(compile)]
 [info] Resolving org.apache.httpcomponents#httpmime;4.5.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@564208bb
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cc4bd41
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpmime;4.5.2
 [debug] 	local: revision in cache: org.apache.httpcomponents#httpmime;4.5.2
 [debug] 	found org.apache.httpcomponents#httpmime;4.5.2 in sbt-chain
@@ -2308,7 +2669,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.httpcomponents#httpmime;4.5.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit-core-js;2.17 [test->default(compile)]
 [info] Resolving net.sourceforge.htmlunit#htmlunit-core-js;2.17 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64b625d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fb93e6b
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit-core-js;2.17
 [debug] 	local: revision in cache: net.sourceforge.htmlunit#htmlunit-core-js;2.17
 [debug] 	found net.sourceforge.htmlunit#htmlunit-core-js;2.17 in sbt-chain
@@ -2317,7 +2682,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.htmlunit#htmlunit-core-js;2.17 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.nekohtml#nekohtml;1.9.22 [test->default(compile)]
 [info] Resolving net.sourceforge.nekohtml#nekohtml;1.9.22 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d5272de
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5310479
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: net.sourceforge.nekohtml#nekohtml;1.9.22
 [debug] 	local: revision in cache: net.sourceforge.nekohtml#nekohtml;1.9.22
 [debug] 	found net.sourceforge.nekohtml#nekohtml;1.9.22 in sbt-chain
@@ -2326,7 +2695,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.nekohtml#nekohtml;1.9.22 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.cssparser#cssparser;0.9.18 [test->default(compile)]
 [info] Resolving net.sourceforge.cssparser#cssparser;0.9.18 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a3cf2f1
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ff4ae01
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: net.sourceforge.cssparser#cssparser;0.9.18
 [debug] 	local: revision in cache: net.sourceforge.cssparser#cssparser;0.9.18
 [debug] 	found net.sourceforge.cssparser#cssparser;0.9.18 in sbt-chain
@@ -2335,7 +2708,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.sourceforge.cssparser#cssparser;0.9.18 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.w3c.css#sac;1.3 [test->default(compile)]
 [info] Resolving org.w3c.css#sac;1.3 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f716111
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7948eb38
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.w3c.css#sac;1.3
 [debug] 	local: revision in cache: org.w3c.css#sac;1.3
 [debug] 	found org.w3c.css#sac;1.3 in sbt-chain
@@ -2344,7 +2721,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.w3c.css#sac;1.3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-io#commons-io;2.4 [test->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28ef8a6d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51375aaa
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	local: revision in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
@@ -2353,7 +2734,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->commons-io#commons-io;2.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d09de1
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48f94fb0
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 in sbt-chain
@@ -2362,7 +2747,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-client;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-util;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-util;9.2.15.v20160210 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@307caf43
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@721d01cf
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-util;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-util;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty#jetty-util;9.2.15.v20160210 in sbt-chain
@@ -2371,7 +2760,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-util;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-io;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty#jetty-io;9.2.15.v20160210 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@153244e4
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@561938ad
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-io;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty#jetty-io;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty#jetty-io;9.2.15.v20160210 in sbt-chain
@@ -2380,7 +2773,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty#jetty-io;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53e8a103
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e9b87d1
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 in sbt-chain
@@ -2389,7 +2786,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-common;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 [test->default(compile)]
 [info] Resolving org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f568b1f
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45c5877b
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210
 [debug] 	local: revision in cache: org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210
 [debug] 	found org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 in sbt-chain
@@ -2398,7 +2799,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.eclipse.jetty.websocket#websocket-api;9.2.15.v20160210 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.fluentlenium#fluentlenium-core;0.10.9 [test->default(compile)]
 [info] Resolving org.fluentlenium#fluentlenium-core;0.10.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28e79b04
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24fe2c07
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.fluentlenium#fluentlenium-core;0.10.9
 [debug] 	local: revision in cache: org.fluentlenium#fluentlenium-core;0.10.9
 [debug] 	found org.fluentlenium#fluentlenium-core;0.10.9 in sbt-chain
@@ -2407,7 +2812,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.fluentlenium#fluentlenium-core;0.10.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@312c40fc
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57558895
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-chrome-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-chrome-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 in sbt-chain
@@ -2416,7 +2825,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-chrome-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-remote-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-remote-driver;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56ff1c9a
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fadb512
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-remote-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-remote-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-remote-driver;2.48.2 in sbt-chain
@@ -2425,7 +2838,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-remote-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->cglib#cglib-nodep;2.1_3 [test->default(compile)]
 [info] Resolving cglib#cglib-nodep;2.1_3 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@444c9fad
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b16334e
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: cglib#cglib-nodep;2.1_3
 [debug] 	local: revision in cache: cglib#cglib-nodep;2.1_3
 [debug] 	found cglib#cglib-nodep;2.1_3 in sbt-chain
@@ -2434,7 +2851,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->cglib#cglib-nodep;2.1_3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.3.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1994a546
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@606d00e4
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.3.1
 [debug] 	local: revision in cache: com.google.code.gson#gson;2.3.1
 [debug] 	found com.google.code.gson#gson;2.3.1 in sbt-chain
@@ -2443,7 +2864,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-api;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-api;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1274d421
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@231cfe11
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-api;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-api;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-api;2.48.2 in sbt-chain
@@ -2452,7 +2877,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-api;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-exec;1.3 [test->default(compile)]
 [info] Resolving org.apache.commons#commons-exec;1.3 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e363b17
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32b8a5a8
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-exec;1.3
 [debug] 	local: revision in cache: org.apache.commons#commons-exec;1.3
 [debug] 	found org.apache.commons#commons-exec;1.3 in sbt-chain
@@ -2461,7 +2890,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.apache.commons#commons-exec;1.3 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna;4.1.0 [test->default(compile)]
 [info] Resolving net.java.dev.jna#jna;4.1.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38f2d2df
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1751bc5
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: net.java.dev.jna#jna;4.1.0
 [debug] 	local: revision in cache: net.java.dev.jna#jna;4.1.0
 [debug] 	found net.java.dev.jna#jna;4.1.0 in sbt-chain
@@ -2470,7 +2903,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna;4.1.0 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna-platform;4.1.0 [test->default(compile)]
 [info] Resolving net.java.dev.jna#jna-platform;4.1.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4df6a5f9
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64d7b0c5
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: net.java.dev.jna#jna-platform;4.1.0
 [debug] 	local: revision in cache: net.java.dev.jna#jna-platform;4.1.0
 [debug] 	found net.java.dev.jna#jna-platform;4.1.0 in sbt-chain
@@ -2479,7 +2916,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->net.java.dev.jna#jna-platform;4.1.0 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-edge-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-edge-driver;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3480e9f2
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33e16833
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-edge-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-edge-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-edge-driver;2.48.2 in sbt-chain
@@ -2488,7 +2929,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-edge-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c2d100e
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@544fa4d
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 in sbt-chain
@@ -2497,7 +2942,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-htmlunit-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-support;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-support;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@693aab54
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5c38e4b9
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-support;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-support;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-support;2.48.2 in sbt-chain
@@ -2506,7 +2955,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-support;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d6f787e
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e6e4749
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-firefox-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-firefox-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 in sbt-chain
@@ -2515,7 +2968,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-firefox-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-ie-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-ie-driver;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d498bc3
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ca3b12d
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-ie-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-ie-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-ie-driver;2.48.2 in sbt-chain
@@ -2524,7 +2981,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-ie-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-safari-driver;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-safari-driver;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72326ff
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e8633b4
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-safari-driver;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-safari-driver;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-safari-driver;2.48.2 in sbt-chain
@@ -2533,7 +2994,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-safari-driver;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.webbitserver#webbit;0.4.14 [test->default(compile)]
 [info] Resolving org.webbitserver#webbit;0.4.14 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a7c5949
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f87188
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.webbitserver#webbit;0.4.14
 [debug] 	local: revision in cache: org.webbitserver#webbit;0.4.14
 [debug] 	found org.webbitserver#webbit;0.4.14 in sbt-chain
@@ -2542,7 +3007,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.webbitserver#webbit;0.4.14 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty;3.5.2.Final [test->default(compile)]
 [info] Resolving io.netty#netty;3.5.2.Final ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18086c7d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@476b50a
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.5.2.Final
 [debug] 	local: revision in cache: io.netty#netty;3.5.2.Final
 [debug] 	found io.netty#netty;3.5.2.Final in sbt-chain
@@ -2551,7 +3020,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->io.netty#netty;3.5.2.Final [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-leg-rc;2.48.2 [test->default(compile)]
 [info] Resolving org.seleniumhq.selenium#selenium-leg-rc;2.48.2 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d22dbdb
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34ad8711
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-leg-rc;2.48.2
 [debug] 	local: revision in cache: org.seleniumhq.selenium#selenium-leg-rc;2.48.2
 [debug] 	found org.seleniumhq.selenium#selenium-leg-rc;2.48.2 in sbt-chain
@@ -2560,7 +3033,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.seleniumhq.selenium#selenium-leg-rc;2.48.2 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-specs2_2.11;2.5.9 [test->default(compile)]
 [info] Resolving com.typesafe.play#play-specs2_2.11;2.5.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50509d03
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@54096cd
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-specs2_2.11;2.5.9
 [debug] 	local: revision in cache: com.typesafe.play#play-specs2_2.11;2.5.9
 [debug] 	found com.typesafe.play#play-specs2_2.11;2.5.9 in sbt-chain
@@ -2569,7 +3046,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-specs2_2.11;2.5.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-core_2.11;3.6.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d48339d
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b25fbc2
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-core_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-core_2.11;3.6.6
 [debug] 	found org.specs2#specs2-core_2.11;3.6.6 in sbt-chain
@@ -2578,7 +3059,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-matcher_2.11;3.6.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@674eb7ce
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c60df13
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-matcher_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-matcher_2.11;3.6.6
 [debug] 	found org.specs2#specs2-matcher_2.11;3.6.6 in sbt-chain
@@ -2587,7 +3072,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-common_2.11;3.6.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@772ad466
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11142940
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-common_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-common_2.11;3.6.6
 [debug] 	found org.specs2#specs2-common_2.11;3.6.6 in sbt-chain
@@ -2596,7 +3085,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.4 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-core_2.11;7.1.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@76e020ef
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ba4e72b
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.1.4
 [debug] 	local: revision in cache: org.scalaz#scalaz-core_2.11;7.1.4
 [debug] 	found org.scalaz#scalaz-core_2.11;7.1.4 in sbt-chain
@@ -2605,7 +3098,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.1.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@813a1e4
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5464ed1a
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.4
 [debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.4 in sbt-chain
@@ -2614,7 +3111,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.4 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-effect_2.11;7.1.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@678ab5d3
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@793aff7f
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-effect_2.11;7.1.4
 [debug] 	local: revision in cache: org.scalaz#scalaz-effect_2.11;7.1.4
 [debug] 	found org.scalaz#scalaz-effect_2.11;7.1.4 in sbt-chain
@@ -2623,7 +3124,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.1.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.4 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-concurrent_2.11;7.1.4 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@148aa985
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47597ec3
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-concurrent_2.11;7.1.4
 [debug] 	local: revision in cache: org.scalaz#scalaz-concurrent_2.11;7.1.4
 [debug] 	found org.scalaz#scalaz-concurrent_2.11;7.1.4 in sbt-chain
@@ -2632,7 +3137,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.1.4 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz.stream#scalaz-stream_2.11;0.8 [test->default(compile)]
 [info] Resolving org.scalaz.stream#scalaz-stream_2.11;0.8 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@589852a1
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67eefdaf
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scalaz.stream#scalaz-stream_2.11;0.8
 [debug] 	local: revision in cache: org.scalaz.stream#scalaz-stream_2.11;0.8
 [debug] 	found org.scalaz.stream#scalaz-stream_2.11;0.8 in sbt-chain
@@ -2642,7 +3151,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scalaz.stream#scalaz-stream_2.11;0.8 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scodec#scodec-bits_2.11;1.0.9 [test->default(compile)]
 [info] Resolving org.scodec#scodec-bits_2.11;1.0.9 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3732a831
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a03202d
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scodec#scodec-bits_2.11;1.0.9
 [debug] 	local: revision in cache: org.scodec#scodec-bits_2.11;1.0.9
 [debug] 	found org.scodec#scodec-bits_2.11;1.0.9 in sbt-chain
@@ -2652,7 +3165,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scodec#scodec-bits_2.11;1.0.9 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.spire-math#kind-projector_2.11;0.7.1 [test->default(compile)]
 [info] Resolving org.spire-math#kind-projector_2.11;0.7.1 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25d7f056
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@691b48c7
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.spire-math#kind-projector_2.11;0.7.1
 [debug] 	local: revision in cache: org.spire-math#kind-projector_2.11;0.7.1
 [debug] 	found org.spire-math#kind-projector_2.11;0.7.1 in sbt-chain
@@ -2661,7 +3178,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.spire-math#kind-projector_2.11;0.7.1 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.11.7 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b331cb5
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1610d078
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.7
 [debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.7
 [debug] 	found org.scala-lang#scala-compiler;2.11.7 in sbt-chain
@@ -2670,7 +3191,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.scala-lang#scala-compiler;2.11.7 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-junit_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-junit_2.11;3.6.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cf468ef
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72ea2dd7
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-junit_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-junit_2.11;3.6.6
 [debug] 	found org.specs2#specs2-junit_2.11;3.6.6 in sbt-chain
@@ -2679,7 +3204,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-junit_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-mock_2.11;3.6.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-mock_2.11;3.6.6 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c97f7f3
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b248dd
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-mock_2.11;3.6.6
 [debug] 	local: revision in cache: org.specs2#specs2-mock_2.11;3.6.6
 [debug] 	found org.specs2#specs2-mock_2.11;3.6.6 in sbt-chain
@@ -2688,7 +3217,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.specs2#specs2-mock_2.11;3.6.6 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->default(compile)]
 [info] Resolving org.mockito#mockito-core;1.9.5 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@512bb9fa
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33f0f46c
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.mockito#mockito-core;1.9.5
 [debug] 	local: revision in cache: org.mockito#mockito-core;1.9.5
 [debug] 	found org.mockito#mockito-core;1.9.5 in sbt-chain
@@ -2697,7 +3230,11 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.mockito#mockito-core;1.9.5 [test->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.objenesis#objenesis;1.0 [test->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.0 ...
+<<<<<<< Updated upstream
 [debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dc5418a
+=======
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25d81c6f
+>>>>>>> Stashed changes
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.0
 [debug] 	local: revision in cache: org.objenesis#objenesis;1.0
 [debug] 	found org.objenesis#objenesis;1.0 in sbt-chain
@@ -2816,6 +3353,7 @@
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.21 [compile->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.21 [compile->master]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->default(compile)]
+<<<<<<< Updated upstream
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->runtime]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->compile]
 [debug] == resolving dependencies nasty#nasty$sources_2.11;1.0->com.typesafe.play#play-streams_2.11;2.5.9 [compile->master]
@@ -6542,3 +7080,5 @@
 [debug] 	report for nasty#nasty$sources_2.11;1.0 pom produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-pom.xml
 [debug] 	report for nasty#nasty$sources_2.11;1.0 scala-tool produced in /Users/Tom/repos/NASty/target/resolution-cache/reports/nasty-nasty$sources_2.11-scala-tool.xml
 [debug] 	resolve done (15119ms resolve - 398ms download)
+=======
+>>>>>>> Stashed changes

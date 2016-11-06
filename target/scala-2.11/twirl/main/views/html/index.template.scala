@@ -54,13 +54,21 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
     <div class="mdl-layout__drawer">
       <span class="mdl-layout-title">NASty</span>
       <nav class="mdl-navigation">
-        <a class="mdl-navigation__link" href="">
+        <a class="mdl-navigation__link" href="drive.scala.html">
           <i class="material-icons">backup</i>
           Drive
         </a>
-        <a class="mdl-navigation__link" href="">
+        <a class="mdl-navigation__link" href="settings.scala.html">
           <i class="material-icons">settings</i>
           Settings
+        </a>
+        <a class="mdl-navigation__link" href="trash.scala.html">
+          <i class="material-icons">delete</i>
+          Trash
+        </a>
+        <a class="mdl-navigation__link" href="starred.scala.html">
+          <i class="material-icons">star rate</i>
+          Starred
         </a>
       </nav>
     </div>
@@ -91,9 +99,9 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
 object index extends index_Scope0.index
               /*
                   -- GENERATED --
-                  DATE: Sat Nov 05 20:43:05 CDT 2016
-                  SOURCE: /Users/Tom/repos/NASty/app/views/index.scala.html
-                  HASH: 689f05cae4acc18b3bf5807a1a5f92354581b20a
+                  DATE: Sun Nov 06 05:39:58 CST 2016
+                  SOURCE: /Users/seanavila/repos/NASty/app/views/index.scala.html
+                  HASH: 45fdc7d375bdf7c9e27e0991cba435c4d0dc6a1c
                   MATRIX: 609->0|783->148|797->154|847->184|981->292|995->298|1043->326|1098->354|1113->360|1170->396
                   LINES: 25->1|31->7|31->7|31->7|33->9|33->9|33->9|34->10|34->10|34->10
                   -- GENERATED --

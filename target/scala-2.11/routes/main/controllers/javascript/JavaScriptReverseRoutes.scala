@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/Users/Tom/repos/NASty/conf/routes
-// @DATE:Sat Nov 05 17:50:54 CDT 2016
+// @SOURCE:/Users/seanavila/repos/NASty/conf/routes
+// @DATE:Sun Nov 06 05:53:05 CST 2016
 
 import play.api.routing.JavaScriptReverseRoute
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }
@@ -14,7 +14,7 @@ import _root_.controllers.Assets.Asset
 package controllers.javascript {
   import ReverseRouteContext.empty
 
-  // @LINE:9
+  // @LINE:14
   class ReverseAssets(_prefix: => String) {
 
     def _defaultPrefix: String = {
@@ -22,7 +22,7 @@ package controllers.javascript {
     }
 
   
-    // @LINE:9
+    // @LINE:14
     def at: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.Assets.at",
       """
@@ -41,6 +41,46 @@ package controllers.javascript {
       if (_prefix.endsWith("/")) "" else "/"
     }
 
+  
+    // @LINE:7
+    def drive: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.drive",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "drive.scala.html"})
+        }
+      """
+    )
+  
+    // @LINE:10
+    def starred: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.starred",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "starred.scala.html"})
+        }
+      """
+    )
+  
+    // @LINE:8
+    def settings: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.settings",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "settings.scala.html"})
+        }
+      """
+    )
+  
+    // @LINE:9
+    def trash: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.Application.trash",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "trash.scala.html"})
+        }
+      """
+    )
   
     // @LINE:6
     def index: JavaScriptReverseRoute = JavaScriptReverseRoute(
